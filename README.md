@@ -1,8 +1,8 @@
-# Food Microbiology RBP workflow v1.0 — release candidate
+# Food Microbiology RBP workflow v1.0.0
 
 Paper: **An auditable sparse-evidence computational–experimental workflow for prioritizing phage receptor-binding proteins and Gp17-mediated magnetic capture of Yersinia enterocolitica O:3 in pork- and seafood-derived matrices**.
 
-This standalone, offline package reproduces the frozen downstream computational ranking. It is a release candidate, not a published release. Author metadata and the Apache-2.0 selection were supplied by the author for this export. The PATENT ADVISORY NOTICE in LICENSE and NOTICE concerns only patent claims outside the Apache-2.0 Section 3 grant and does not restrict commercial use granted under that license. The author has approved public release. Historical review records are retained for provenance.
+This standalone, offline package reproduces the frozen downstream computational ranking. Release v1.0.0 is publicly available on GitHub and archived in Zenodo. Author metadata and the Apache-2.0 selection were supplied by the author for this export. The PATENT ADVISORY NOTICE in LICENSE and NOTICE concerns only patent claims outside the Apache-2.0 Section 3 grant and does not restrict commercial use granted under that license. The author has approved public release. Historical review records are retained for provenance.
 
 Run from PowerShell, with the pinned dependencies available:
 
@@ -37,6 +37,20 @@ Key artifacts:
 - `manifests/`: input provenance/hashes, expected output hashes, runtime and manuscript comparison.
 - `IP_REVIEW_PACKAGE/`: proposed file inventory and unresolved review questions. This is not authorization to distribute.
 
-The current manuscript's B-stage numerical table was not supplied or located. Its absent values are marked `AUTHOR_COMPARISON_PENDING`, never assumed to match. No existing paper-specific release was found in this repository. Suggested future tag: `food-microbiology-rbp-workflow-v1.0.0`; suggested commit: `feat: add auditable Food Microbiology RBP reproducibility package`. Neither has been created.
+The current manuscript's B-stage numerical table was not supplied or located. Its absent values remain marked `AUTHOR_COMPARISON_PENDING`; no manuscript numerical values were invented. The independent v1.0.0 release points to commit `604ee08829ac5ee628f4aa0c98fbb5a21e3c3e17`. Source provenance is recorded in SOURCE_PROVENANCE.md.
 
 Corresponding author: Shiying Lu (lushiying1129@163.com). Source commit and export changes: see SOURCE_PROVENANCE.md.
+
+## Code availability
+
+The paper-specific source code, frozen computational inputs, and reproducibility scripts are publicly available in the GitHub repository https://github.com/wuzongcheng77/food-microbiology-rbp-workflow (release v1.0.0) and permanently archived in Zenodo at https://doi.org/10.5281/zenodo.22625899. The archive includes the complete 827-candidate G_pre1 analysis, robustness analyses, and deterministic C_verified/G_pro1 feedback workflow.
+
+Version DOI: https://doi.org/10.5281/zenodo.22625899
+
+Concept DOI (all versions): https://doi.org/10.5281/zenodo.22625898
+
+## Software reference
+
+Wu, Z., & Lu, S. (2026). Food Microbiology RBP Prioritization and Magnetic Bioseparation Workflow (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22625899
+
+The DOI metadata was added on main after archiving; the immutable v1.0.0 tag remains unchanged.

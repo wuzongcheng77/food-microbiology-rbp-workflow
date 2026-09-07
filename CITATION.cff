@@ -17,3 +17,8 @@ authors:
 contact:
 - *id001
 license: Apache-2.0
+doi: 10.5281/zenodo.22625899
+repository-code: https://github.com/wuzongcheng77/food-microbiology-rbp-workflow
+url: https://doi.org/10.5281/zenodo.22625899
+date-released: '2026-09-07'
+commit: 604ee08829ac5ee628f4aa0c98fbb5a21e3c3e17

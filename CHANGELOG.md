@@ -15,3 +15,7 @@ Created a paper-specific downstream release candidate from repository commit 1dd
 ## Independent public v1.0.0 preparation
 
 Replaced the prior Patent Notice with an informational PATENT ADVISORY NOTICE limited to outside-Section-3 claims, on the author's express confirmation. Marked the validated export ready for publication. Scientific data, code, ranks, weights, seed, tests and expected-output hashes are unchanged.
+
+## Published DOI metadata on main
+
+Linked verified Zenodo version DOI 10.5281/zenodo.22625899 and concept DOI 10.5281/zenodo.22625898 in README and CITATION.cff. Added publication verification reports and manuscript Code Availability text. This is a metadata-only follow-up; v1.0.0 and all scientific files remain unchanged.
