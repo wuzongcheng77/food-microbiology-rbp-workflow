@@ -1,0 +1,41 @@
+version: v5_4_9g_G_pro1_C_verified_anchor_feedback_sequence_complete
+branch: YRBP
+scoring_mode: deterministic_rule_based_post_feedback
+machine_learning_retraining: false
+internet_access_used: false
+frozen_input:
+  path: data/derived/YRBP_branch_runs/v5_4_8z2_G_pre1_target_engineering_composite_rank/YRBP_v5_4_8z2_G_pre1_target_engineering_composite_top50.csv
+  sha256: 8D7E43B5FEA103A3CBC38F62BDA845D8EBE3D3E57ADE6C591090F41AAD3B45C2
+  row_count_used: 50
+protected_outputs:
+  G_pre1: read_only_unmodified
+  v5_4_9f_outputs: read_only_if_used
+forbidden_adjustments:
+  forced_rank: not_allowed
+  hard_coded_priority: not_allowed
+  manual_override: not_allowed
+  gold_standard_bonus: not_allowed
+G_pro1_score_formula: "0.60 * G_pre1_score + 0.10 * deployment_readiness_score + 0.30 * C_verified_score"
+C_verified_score_formula: "0.70 * C_verified_status_score + 0.30 * C_verified_anchor_similarity_score"
+C_verified_status_policy:
+  Q9T0Z9: 1.0
+  not_tested: 0.5
+  verified_negative_or_fail: 0.0
+  partial_positive: 0.6_to_0.8_if_explicitly_present
+C_verified_anchor_similarity_formula: "0.25 * domain_architecture_similarity + 0.20 * receptor_binding_region_similarity + 0.20 * structure_similarity + 0.15 * physicochemical_similarity + 0.20 * target_context_or_docking_similarity"
+deployment_readiness_score_formula: "0.40 * E6_4_constructability_expression_score + 0.40 * E6_5_solubility_aggregation_chaperone_score + 0.20 * E6_6_application_engineering_score"
+physicochemical_similarity_formula:
+  sequence_source_priority: ["data/B0_standard_candidates/v5_2/B0_standard_candidate_records.csv", "data/B1_clean_universe/v5_2/B1_clean_candidate_universe.csv"]
+  vector: "20 amino-acid composition fractions plus hydrophobic, charged, acidic, basic, polar, aromatic, cysteine, proline, low-complexity proxy, and scaled net-charge-density proxy"
+  cosine_component: "cosine(candidate_vector, Q9T0Z9_vector)"
+  bounded_closeness_component: "mean(length_similarity, hydrophobic_fraction_closeness, cysteine_fraction_closeness, net_charge_density_closeness)"
+  final_formula: "0.70 * cosine_component + 0.30 * bounded_closeness_component"
+normalization_policy:
+  missing_similarity_subscores: normalize_by_available_component_weights
+  no_anchor_similarity_components: set_to_0.5_and_low_confidence
+field_mappings:
+  domain_architecture_similarity: "Jaccard over non-generic InterPro/signature IDs from B3_candidate_domain_evidence.csv"
+  receptor_binding_region_similarity: "Mean normalized closeness to Q9T0Z9 over Vina contact profile fields"
+  structure_similarity: "Normalized closeness to Q9T0Z9 using E6_2_structure_reliability_score"
+  physicochemical_similarity: "Sequence-derived formula above, computed from recovered local B0/B1 sequence bodies"
+  target_context_or_docking_similarity: "Mean normalized closeness to Q9T0Z9 using target_context_score, docking_support_score, and broad_vina_score when available"

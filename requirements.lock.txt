@@ -1,0 +1,17 @@
+# Exact versions observed locally; Python 3.12.3. No installation was performed.
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.9.2
+pillow==12.3.0
+pytest==7.4.4
+contourpy==1.2.0
+cycler==0.11.0
+fonttools==4.51.0
+kiwisolver==1.4.4
+packaging==24.1
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+six==1.16.0
+iniconfig==1.1.1
+pluggy==1.0.0
+colorama==0.4.6

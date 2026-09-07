@@ -1,0 +1,33 @@
+{
+  "scope": "public_release_candidate",
+  "source_commit": "67a434bfd2e8a967d42dd9d67ef7025b33714708",
+  "source_tag": "food-microbiology-rbp-workflow-v1.0.0",
+  "source_unchanged": true,
+  "initial_copy_files_matched": 98,
+  "protected_files_unchanged": 79,
+  "python_version": "3.12.3",
+  "locked_dependencies_matched": 16,
+  "tests": [
+    "18 passed in 7.74s",
+    "18 passed in 8.20s"
+  ],
+  "expected_output_hashes_matched": 51,
+  "citation_schema_validation": "PASS",
+  "citation_schema_url": "https://raw.githubusercontent.com/citation-file-format/citation-file-format/main/schema.json",
+  "citation_schema_sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b",
+  "apache_license_source": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+  "apache_license_base_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+  "patent_notice_preserved_verbatim": false,
+  "license_compatibility": "RESOLVED_BY_EXPLICIT_OUTSIDE_SECTION_3_SCOPE_CONFIRMATION",
+  "publication_ready": true,
+  "remote_actions_performed": false,
+  "doi_generated": false,
+  "authorized_public_contact": "lushiying1129@163.com",
+  "timestamp": "2026-09-07T03:47:50.902950+00:00",
+  "absolute_path_matches": 0,
+  "credential_pattern_matches": 0,
+  "unauthorized_email_matches": 0,
+  "path_scan": "PASS",
+  "patent_advisory_replaces_previous_notice": true,
+  "application_identifier_as_provided": "ZL20260713013"
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "source": "data/derived/YRBP_branch_runs/v5_4_8z2_G_pre1_target_engineering_composite_rank/YRBP_v5_4_8z2_G_pre1_target_engineering_composite_full_rank_table.csv",
+    "destination": "inputs/frozen_full.csv",
+    "source_sha256": "85c3c3b9b8e5db3827fbdc7945426666226beb46b8461dd8605e187e50c94886",
+    "sha256": "85c3c3b9b8e5db3827fbdc7945426666226beb46b8461dd8605e187e50c94886",
+    "extraction": "byte copy"
+  },
+  {
+    "source": "data/derived/YRBP_branch_runs/v5_4_8z2_G_pre1_target_engineering_composite_rank/YRBP_v5_4_8z2_G_pre1_target_engineering_composite_top50.csv",
+    "destination": "inputs/frozen_top50.csv",
+    "source_sha256": "8d7e43b5fea103a3cbc38f62bda845d8ebe3d3e57ade6c591090f41aad3b45c2",
+    "sha256": "8d7e43b5fea103a3cbc38f62bda845d8ebe3d3e57ade6c591090f41aad3b45c2",
+    "extraction": "byte copy"
+  },
+  {
+    "source": "data/derived/YRBP_branch_runs/v5_4_8z2_G_pre1_target_engineering_composite_rank/YRBP_v5_4_8z2_composite_scoring_rulebook.csv",
+    "destination": "configs/original_rulebook.csv",
+    "source_sha256": "ccb2c6a2be2e6b526c4c43ffb38704b5f8f3ae7cf85d95132d1554f6ab56e590",
+    "sha256": "ccb2c6a2be2e6b526c4c43ffb38704b5f8f3ae7cf85d95132d1554f6ab56e590",
+    "extraction": "byte copy"
+  },
+  {
+    "source": "data/derived/YRBP_branch_runs/v5_4_8z2_G_pre1_target_engineering_composite_rank/YRBP_v5_4_8z2_G_pre1_target_engineering_composite_full_rank_table.csv",
+    "destination": "inputs/pre_numeric.csv",
+    "source_sha256": "85c3c3b9b8e5db3827fbdc7945426666226beb46b8461dd8605e187e50c94886",
+    "sha256": "b95d480ceeaa8181a91806bc25f52b8c6d263ff2acc3decb7f787a40521b7167",
+    "extraction": "column/row subset"
+  },
+  {
+    "source": "data/derived/YRBP_branch_runs/v5_4_8z2_G_pre1_target_engineering_composite_rank/YRBP_v5_4_8z2_G_pre1_target_engineering_composite_full_rank_table.csv",
+    "destination": "inputs/pre_labels.csv",
+    "source_sha256": "85c3c3b9b8e5db3827fbdc7945426666226beb46b8461dd8605e187e50c94886",
+    "sha256": "d92983f65f7a2325a2914c7b3186c24e1220afc799f53844d10d1b0e927d93e7",
+    "extraction": "column/row subset"
+  },
+  {
+    "source": "data/derived/YRBP_branch_runs/v5_4_9g_G_pro1_C_verified_anchor_feedback_sequence_complete/YRBP_v5_4_9g_C_verified_wetlab_evidence_registry.csv",
+    "destination": "inputs/feedback/registry.csv",
+    "source_sha256": "75c752c2523cfdef8a67a9a8d861648d501ccc5aff66f6c165409078ecbf097e",
+    "sha256": "75c752c2523cfdef8a67a9a8d861648d501ccc5aff66f6c165409078ecbf097e",
+    "extraction": "byte copy"
+  },
+  {
+    "source": "data/derived/YRBP_branch_runs/v5_4_9g_G_pro1_C_verified_anchor_feedback_sequence_complete/YRBP_v5_4_9g_G_pro1_post_feedback_top50.csv",
+    "destination": "inputs/feedback/expected_top50.csv",
+    "source_sha256": "696ddac6787d2ace90b86e36a188bb557bdd9518589e7957b7c2d6896ef41779",
+    "sha256": "696ddac6787d2ace90b86e36a188bb557bdd9518589e7957b7c2d6896ef41779",
+    "extraction": "byte copy"
+  },
+  {
+    "source": "data/derived/YRBP_branch_runs/v5_4_9g_G_pro1_C_verified_anchor_feedback_sequence_complete/YRBP_v5_4_9g_G_pro1_score_components_top50.csv",
+    "destination": "inputs/feedback/expected_components.csv",
+    "source_sha256": "36ae305cd3c0d40d345125436adbb00283bb18e37ceb4b74ed7bb63d1496cdd1",
+    "sha256": "36ae305cd3c0d40d345125436adbb00283bb18e37ceb4b74ed7bb63d1496cdd1",
+    "extraction": "byte copy"
+  },
+  {
+    "source": "data/derived/YRBP_branch_runs/v5_4_9g_G_pro1_C_verified_anchor_feedback_sequence_complete/YRBP_v5_4_9g_G_pro1_scoring_policy.yaml",
+    "destination": "configs/original_feedback_policy.yaml",
+    "source_sha256": "1fe80f6bc6423d9037644b9b9f19f3ba851b7ad1c896e2221a9195994d208767",
+    "sha256": "1fe80f6bc6423d9037644b9b9f19f3ba851b7ad1c896e2221a9195994d208767",
+    "extraction": "byte copy"
+  },
+  {
+    "source": "data/B0_standard_candidates/v5_2/B0_standard_candidate_records.csv",
+    "destination": "inputs/feedback/sequences.csv",
+    "source_sha256": "bd406720010c434065be774140625250b57b968f823e3694b6b9b7f2205edae8",
+    "sha256": "53a5d2ac2a1630006c9cc684e3674cf80e1de1a74ce8247ec56299017982d052",
+    "extraction": "column/row subset"
+  },
+  {
+    "source": "data/derived/YRBP_branch_runs/v5_4_8u_E6_scoring_after_policy_repair/YRBP_v5_4_8u_E6_component_score_table.csv",
+    "destination": "inputs/feedback/e6.csv",
+    "source_sha256": "99d31613e1b8f35e2b5f09e6d77890a8c71cb6c5890b7b44eb7d20adaaf388bf",
+    "sha256": "ac53c76cad5fb220b449c1fbe59dfc59a6c26781a56d046b62dad9523fa914ec",
+    "extraction": "column/row subset"
+  },
+  {
+    "source": "data/B3_interproscan/v5_2/B3_candidate_domain_evidence.csv",
+    "destination": "inputs/feedback/domains.csv",
+    "source_sha256": "13d5409a76ebb7630106aa98cb3a063a1c36045aae9a1725dacc03607ee367d9",
+    "sha256": "3b1de66b93088b982d09e8fa86817658f12b9d14c905deee907048986f380dbe",
+    "extraction": "column/row subset"
+  },
+  {
+    "source": "data/derived/YRBP_branch_runs/v5_4_8r_pose_contact_QC_from_existing_Vina_outputs/YRBP_v5_4_8r_top_pose_contact_summary.csv",
+    "destination": "inputs/feedback/contacts.csv",
+    "source_sha256": "f9a84c73e9f32b76d9babc676b06b1be2559b649b1c3adeaf401ca8bd716a3a4",
+    "sha256": "b96894175c2297937df3ebf40142d1f5f567e71ab036c860e588a411553bdc64",
+    "extraction": "column/row subset"
+  },
+  {
+    "source": "data/derived/YRBP_branch_runs/v5_4_9g_G_pro1_C_verified_anchor_feedback_sequence_complete_generate.py",
+    "destination": "src/feedback.py",
+    "source_sha256": "45015be2f7b796ce25d8ca89e04d1c2135edfc204ebf40e0497d3f723645f19b",
+    "sha256": "d124f0fecdd6d1120a4e48610957a6930f63e20fb2e66b2d326027b710d5c16c",
+    "extraction": "helpers and calculation block; generic registry status; no accession-specific self-similarity shortcuts"
+  }
+]

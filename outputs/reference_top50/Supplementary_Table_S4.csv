@@ -1,0 +1,12 @@
+analysis,scope,candidates,target_rank,top5_overlap,top10_overlap,spearman_rho,kendall_tau
+full,top50,50,1,5,10,1.000000000000,1.000000000000
+without_target_context,top50,50,4,3,7,0.829435774310,0.715918367347
+only_target_context,top50,50,1,2,4,-0.033853541417,-0.022040816327
+without_docking_support,top50,50,1,3,4,0.323889555822,0.232653061224
+only_docking_support,top50,50,47,2,6,0.651380552221,0.488979591837
+without_solubility_no_chaperone,top50,50,1,3,9,0.880048019208,0.719183673469
+only_solubility_no_chaperone,top50,50,1,1,2,0.226410564226,0.149387755102
+without_E7_residual,top50,50,1,4,9,0.970996398559,0.871020408163
+only_E7_residual,top50,50,39,1,3,0.204129651861,0.151020408163
+identifier_masked,top50,50,1,5,10,1.000000000000,1.000000000000
+strict_context_blind,top50,50,4,3,7,0.829435774310,0.715918367347

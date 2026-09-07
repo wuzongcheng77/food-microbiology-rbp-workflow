@@ -1,0 +1,26 @@
+{
+  "scope": "top50",
+  "candidates": 50,
+  "seed": 20260906,
+  "iterations": 10000,
+  "baseline_score_matches": 50,
+  "baseline_rank_matches": 50,
+  "target": "Q9T0Z9",
+  "target_score": "0.856763",
+  "target_rank": 1,
+  "target_top1_frequency": 1.0,
+  "target_top5_frequency": 1.0,
+  "target_rank_min": 1,
+  "target_rank_max": 1,
+  "target_rank_quantiles_025_975": [
+    1.0,
+    1.0
+  ],
+  "score_gap_mean": 0.24821177188418686,
+  "score_gap_quantiles_025_975": [
+    0.21789927674223036,
+    0.274700172417
+  ],
+  "interval_interpretation": "empirical central 95% perturbation interval; not a sampling confidence interval",
+  "G_pro1_matches": 50
+}

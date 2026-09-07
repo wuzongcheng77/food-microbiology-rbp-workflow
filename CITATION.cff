@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using this metadata.
+title: Food Microbiology RBP Prioritization and Magnetic Bioseparation Workflow
+version: 1.0.0
+type: software
+authors:
+- family-names: Wu
+  given-names: Zongcheng
+  affiliation: State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic
+    Infectious Diseases, College of Veterinary Medicine, Jilin University
+- &id001
+  family-names: Lu
+  given-names: Shiying
+  affiliation: State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic
+    Infectious Diseases, College of Veterinary Medicine, Jilin University
+  email: lushiying1129@163.com
+contact:
+- *id001
+license: Apache-2.0

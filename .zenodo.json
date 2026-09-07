@@ -1,0 +1,25 @@
+{
+  "title": "Food Microbiology RBP Prioritization and Magnetic Bioseparation Workflow",
+  "upload_type": "software",
+  "description": "Auditable frozen G_pre1 prioritization across 827 candidates, 10,000 weight perturbations, component and masking audits, and deterministic C_verified/G_pro1 feedback. G_pro1 is deterministic feedback, not machine-learning retraining. All 18 tests pass and 51 reproducibility-output hashes match. Source monorepo commit: 67a434bfd2e8a967d42dd9d67ef7025b33714708.",
+  "creators": [
+    {
+      "name": "Wu, Zongcheng",
+      "affiliation": "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, College of Veterinary Medicine, Jilin University"
+    },
+    {
+      "name": "Lu, Shiying",
+      "affiliation": "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, College of Veterinary Medicine, Jilin University"
+    }
+  ],
+  "access_right": "open",
+  "license": "Apache-2.0",
+  "version": "1.0.0",
+  "keywords": [
+    "reproducibility",
+    "phage receptor-binding proteins",
+    "G_pre1",
+    "deterministic feedback",
+    "magnetic capture"
+  ]
+}

@@ -1,0 +1,8 @@
+name: food-microbiology-rbp-v1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.3
+  - pip
+  - pip:
+    - -r requirements.lock.txt

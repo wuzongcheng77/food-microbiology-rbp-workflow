@@ -1,0 +1,10 @@
+rulebook_version,rule_group,rule,score,policy
+v5.4.8z2,target_organism_score,"Yersinia enterocolitica O:3, YeO:3, serotype O:3",1.00,requires explicit O:3 or YeO:3 metadata; do not infer O:3 from enterocolitica alone
+v5.4.8z2,target_organism_score,Yersinia enterocolitica with non-O:3 or unknown serotype,0.75,explicit enterocolitica without explicit O:3 gets conservative unknown-serotype score
+v5.4.8z2,target_organism_score,Other Yersinia species or Yersinia genus-only metadata,0.40,Yersinia genus-only metadata is not promoted to enterocolitica
+v5.4.8z2,target_organism_score,"Other, unknown, or missing organism metadata",0.10,missing metadata gets conservative floor score
+v5.4.8z2,phage_origin_score,Yersinia enterocolitica O:3 phage or phiYeO3-12-like phage,1.00,requires explicit O:3 phage or phiYeO3-12 metadata
+v5.4.8z2,phage_origin_score,Yersinia enterocolitica phage with non-O:3 or unknown serotype,0.90,explicit enterocolitica phage without explicit O:3
+v5.4.8z2,phage_origin_score,Yersinia phage with non-enterocolitica or unknown Yersinia host,0.65,explicit Yersinia phage metadata without enterocolitica host specificity
+v5.4.8z2,phage_origin_score,Yersinia enterocolitica bacterial genome phage-like/prophage-like candidate,0.40,"requires enterocolitica source plus product annotation, not InterProScan alone"
+v5.4.8z2,composite_formula,0.55*target_context+0.20*docking+0.20*solubility_no_chaperone+0.05*E7,,target context primary; docking and engineering support secondary; E7 residual only

@@ -1,0 +1,10 @@
+{
+  "version": "v5.4.8z2_G_pre1_target_engineering_composite_rank",
+  "weights": [0.55, 0.20, 0.20, 0.05],
+  "components": ["target_context", "docking_support", "solubility_no_chaperone", "E7_residual"],
+  "seed": 20260906,
+  "iterations": 10000,
+  "report_target": "Q9T0Z9",
+  "masking_ties": "PCG64 seeded anonymous ordinal; scores then anonymous ordinal only",
+  "sensitivity_ties": "unrounded score then same seeded anonymous ordinal; no omitted component secondary keys"
+}

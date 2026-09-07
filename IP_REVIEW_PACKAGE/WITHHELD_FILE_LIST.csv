@@ -1,0 +1,7 @@
+path,reason
+Repository modules outside this package,Unrelated YAMPs/LAMPs/LYSIN/UI/accounts/connectors/deployment; excluded by scope
+Full B0/B3 source tables,Only Top50 sequence/domain subsets extracted; unrelated records withheld
+Raw wet-lab measurements and manuscript source,Not located/provided for this task; not invented or reconstructed
+outputs/full827/,Initial task-generated development run removed; portable reference outputs retained
+IP_REVIEW_PACKAGE/PUBLIC_FILE_LIST.csv,Index itself has no recursive self-hash; review metadata only
+"Git metadata, environments, caches, secrets and upstream structures",Excluded; only minimal frozen downstream inputs packaged
