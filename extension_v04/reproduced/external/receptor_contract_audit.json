@@ -1,0 +1,14 @@
+{
+  "I7LEH0": {
+    "status": "requires_review",
+    "reasons": [
+      "missing:ligand_class",
+      "receptor_ligand_class_mismatch",
+      "unsupported_method_in_this_entry",
+      "receptor_class_outside_this_adapter",
+      "candidate_specific_evidence_not_established",
+      "evidence_review_incomplete"
+    ],
+    "scope": "declaration_check_only_not_biological_validation"
+  }
+}

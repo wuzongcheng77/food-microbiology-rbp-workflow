@@ -1,0 +1,8 @@
+{
+  "schema": "raw_composition_v1",
+  "records": 1,
+  "unique_sequences": 1,
+  "input_sha256": "08f1b370123c90dc1755f94e2020fc10f7ebd17a1a7594e56d3e210dfed7947c",
+  "module_sha256": "17b49c530ad5529cb4590c3a9f2e26978b8880297f014484bf0b43798b43658e",
+  "scope": "Fresh descriptive features only. Not substitutes for normalized E6/E7 predictors; not used to retune frozen ranking."
+}

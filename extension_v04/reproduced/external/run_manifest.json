@@ -1,0 +1,9 @@
+{
+  "input_sha256": "08f1b370123c90dc1755f94e2020fc10f7ebd17a1a7594e56d3e210dfed7947c",
+  "candidate_count": 1,
+  "evidence": [],
+  "execution_modes": {
+    "not_run_no_structure": 1
+  },
+  "scope": "Execution demonstration, not an external predictive benchmark. Vina affinities across different protein structures are not calibrated probabilities or a sole candidate-ranking criterion."
+}

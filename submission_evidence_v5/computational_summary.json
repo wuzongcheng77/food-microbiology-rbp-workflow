@@ -1,0 +1,26 @@
+{
+  "candidate_count": 827,
+  "nonzero_curated_accessions": [
+    "Q9T0Z9"
+  ],
+  "Gp17": {
+    "accession": "Q9T0Z9",
+    "historical_rank": 1,
+    "historical_score": 0.856763,
+    "metadata_only_context": 0.7,
+    "retrospective_core_score": 0.7300580000000001,
+    "curated_engineering_lower": 0.816763,
+    "curated_engineering_upper": 0.896763,
+    "retrospective_core_rank": 1,
+    "best_possible_rank_curated_unknown": 1,
+    "worst_possible_rank_curated_unknown": 1
+  },
+  "core_top5": [
+    "Q9T0Z9",
+    "A0A7U4GHF9",
+    "A0A1V0DXW2",
+    "I7K2S1",
+    "Q858J8"
+  ],
+  "interpretation": "Retrospective policy sensitivity only. Core removes explicit curated context text and engineering strengths, not all upstream biological knowledge. Bounds vary only two curated engineering terms; they are not confidence intervals and do not bound upstream feature bias."
+}

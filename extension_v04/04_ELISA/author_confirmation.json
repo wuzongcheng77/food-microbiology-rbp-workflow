@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-29",
+  "independent_experiments": 3,
+  "technical_wells_per_experiment_per_condition": 3,
+  "stored_three_values": "Three independent experiment means, each averaging three technical wells",
+  "provenance": "Explicit author confirmation in this task; underlying nine well values not reconstructed",
+  "specificity_rows_2_3_4": "Matched independent experiments 1, 2, 3 across all groups; author confirmed",
+  "binding_background": "Common mean of the three negative values; author confirmed",
+  "specificity_background": "Each group own mean of two negative values; author confirmed"
+}

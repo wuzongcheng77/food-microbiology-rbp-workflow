@@ -1,0 +1,8 @@
+{
+  "source": "08_public_release\\food_microbiology_rbp_workflow_v1.1.0_candidate\\figures\\Figure6\\Figure6.svg",
+  "source_sha256": "6b8ad0c3155e3b927c6893a61911b438099be307c4dd5b87c46a357435a7423e",
+  "change": "Title renumbering and uniform physical size change only; vector paths and values unchanged. Direct vector rendering to 8000 x 6000 pixels for 8 x 6 inches at 1000 dpi; no raster upsampling.",
+  "output_width": 8000,
+  "output_height": 6000,
+  "dpi": 1000
+}

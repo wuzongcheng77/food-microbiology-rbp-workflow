@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "records": 827,
+  "unique_sequences": 744,
+  "ablation_scenarios": 5,
+  "external_case": "intake_and_abstention",
+  "new_candidate_predictive_validation": false
+}

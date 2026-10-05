@@ -1,0 +1,32 @@
+{
+  "F4N729": {
+    "sequence_sha256": "cd565017b4e6079c3c291738af8dbf2470f107cc115a7a8b4567e32bbe435367",
+    "protein_pdbqt": "F4N729.pdbqt",
+    "ligand_pdbqt": "compound5.pdbqt",
+    "protein_sha256": "f6b79674cd406122aa3409a199deac4952ef4f736c2c7875407d547b2b5ecabc",
+    "ligand_sha256": "6fffb48065d00bd32e0c7f8c19ee8469bb4ce1cefde971c0bc2292e58c984097",
+    "origin": "Archived prepared structure; newly executed docking, not newly predicted folding",
+    "center_x": 3.011,
+    "center_y": 1.783,
+    "center_z": 0.904,
+    "size_x": 48.259,
+    "size_y": 39.001,
+    "size_z": 35.601,
+    "exhaustiveness": 8
+  },
+  "A0AAX4Q2K6": {
+    "sequence_sha256": "5e8b50c56777c4991e12e0f2ded55a1099d85ddcbcd4393261c7a87becf9fc6d",
+    "protein_pdbqt": "A0AAX4Q2K6.pdbqt",
+    "ligand_pdbqt": "compound5.pdbqt",
+    "protein_sha256": "7b5f0343f6393339127745c629ef4bdad670f054966a8650572018985a497724",
+    "ligand_sha256": "6fffb48065d00bd32e0c7f8c19ee8469bb4ce1cefde971c0bc2292e58c984097",
+    "origin": "Archived prepared structure; newly executed docking, not newly predicted folding",
+    "center_x": 1.832,
+    "center_y": -0.734,
+    "center_z": -1.688,
+    "size_x": 51.309,
+    "size_y": 45.176,
+    "size_z": 41.455,
+    "exhaustiveness": 8
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "rows": 827,
+  "unique_exact_sequences": 744,
+  "duplicate_groups": {
+    "5e8b50c56777c4991e12e0f2ded55a1099d85ddcbcd4393261c7a87becf9fc6d": [
+      "A0AAX4Q2K6",
+      "A0AAX4M7A4"
+    ],
+    "248fe57028a83e391ef05d43c707513edde6079c1819688a95ad6d8b328826f3": [
+      "A0A7D3UKK9",
+      "A0A7D3UH03"
+    ],
+    "743e21f9b05dae4a29b622853aea9b32658cf3fdfe77ccae6a2d0c884fee96dc": [
+      "A0A0H3NZ57",
+      "A0A7T9XU34"
+    ],
+    "05ca9265f46ef736acf4f89b5bf4cec2148b16c56c4ee13605d4fae053b874c1": [
+      "A0AAX4Q199",
+      "A0AAX4M766"
+    ],
+    "ffe762bf42609b725c0518ff6f72a43197722791892ee8fc63033e80c2d6664e": [
+      "I7J474",
+      "S5MRE6"
+    ],
+    "9909ec758661fd1e45d2c2fc8bb7ec113883ceded26712a7cc0d7a10b92aa7e4": [
+      "A0A2C9CXH4",
+      "A0A2C9CYF4"
+    ],
+    "22a1d747511f18cc857c257a7ce53920f6125862962fcad60dc7f0d89058f2dd": [
+      "A0A2H1UJ87",
+      "A0A2D0PDR4",
+      "A0A2H1UJ90"
+    ],
+    "6f4d5e0334002805ace884c84d06ad49b30fb72006e758c002e1a9240ababea8": [
+      "A0A3B8DLJ2",
+      "A0A449C3S4"
+    ],
+    "191db7b8b8722060d46efe82c9dbaea1d1c045e403e1236214d89e958bbeb7ba": [
+      "A0A0H3NU58",
+      "A0A7T9XU25"
+    ],
+    "2b6b20df2e215a9f284c803201b39ff8ada378ee3dd5803de9d9b84c0d8ea4ee": [
+      "A0AAX4Q2U9",
+      "A0AAX4M771"
+    ],
+    "5de49a2fb62ad509b5a473cc5b1416941405bc94957fb03292741fef8c212031": [
+      "A0A0H3NZ59",
+      "A0A7U0AV15"
+    ],
+    "64d7db01e5833bafd37f2de4275733855e76a9e2aae78f852eb267f23a69611a": [
+      "I7KRU3",
+      "S5ML49"
+    ],
+    "a6fe5d52340c5a57d05a56c55aeb55c687b87310ac95ad2a07998f375a7ba375": [
+      "A0AAE7V728",
+      "A0A7D3QJ92"
+    ],
+    "570c57ee973c818abad8db422772b26d47c18018c9d560524b5f1f11b911ec87": [
+      "A0AAX4M7M8",
+      "A0AAX4Q195"
+    ],
+    "5d5b7750033ad263a3aa2ed64e714dba04a2047b05c665d2a4bc7f684c73d56b": [
+      "A0A3B8DLI7",
+      "A0A449C4X7"
+    ],
+    "97f3b942e418373182d31829cfc9876c343c50ee8319fbc06cde831c269f5517": [
+      "A0A2D0PE10",
+      "A0A2D0PDX6",
+      "A0A2D0PDA0"
+    ],
+    "de51f72fcd0a7b57a19fdddbbb91e108a30a5784d6eef99d60ce590dea589b63": [
+      "A0A0H3NSE3",
+      "A0A7T9XT11"
+    ],
+    "d4ae2b2bf8d1578d1ba198657f5d83dd344df5c251d8dd0f528a1ffc4372ae9d": [
+      "A0A2H1X991",
+      "A0A2H1X986"
+    ],
+    "8a0030bbd0d956b67754f46d848606e7fe0f2fab302f36fba0792cff2cad2d4a": [
+      "I7K3U3",
+      "A0A6M3G945"
+    ],
+    "c2a113df13829c5d394c60d6b34a96a380f0441ae6fe254804eec716a3ebd6a9": [
+      "S5M3D7",
+      "A0A449C3X5",
+      "A0A449C610"
+    ],
+    "e23af39f036a1a7bfdc64ccadbee64de11830b578708bc809a3261599edb9117": [
+      "A0A449C5Z9",
+      "A0A449C597",
+      "A0A449C473",
+      "A0A6M3G872"
+    ],
+    "6ec1dc0e2041a72e74353d252f67911df51b7391210e7c01733a4da53f6e9d57": [
+      "A0A2C9CZQ3",
+      "A0A2C9CYV8"
+    ],
+    "cce8b65c32cf698ea93ea85a38fca8ea76ffc956291c498056eb84e80ee91266": [
+      "A0AAE9JXJ1",
+      "A0AAE9FQP6"
+    ],
+    "3edfe630ee445df3756c1577b201bfe8cf8875e68895eb8d116aabd239e32b0d": [
+      "A0A3B8DYS4",
+      "A0A449C3Q7",
+      "A0A6M3G8P6",
+      "A0A449C4V3"
+    ],
+    "1a69d7245a4aa997aa3eb2f7fe99e65984ae5aa0d57aee9942a68570b791fc17": [
+      "A0ABP1Y7A6",
+      "A0AA36LMJ6"
+    ],
+    "3edcc09bde452919f1a1428e7f67dea78a2132b966e638edf463ae1891b55ff9": [
+      "S5M3A2",
+      "A0A449C694"
+    ],
+    "793cf56b794121107ff6565589ddfc6d12e57c80859d0a5b9624f4bce87281a8": [
+      "A0AAV3BI89",
+      "A0A0E1NTH1",
+      "A0AB72ZKZ2",
+      "A0A2U2GXH7",
+      "A0AAX2I0V1",
+      "A0ABN5RBQ6"
+    ],
+    "5352e8d4c1c0d46beb9f2679bf19d682388f73bb3ad66b1a17acd0e40e91d706": [
+      "A0A0H3B6E3",
+      "A0AAX2I043",
+      "A0AB72ZL33",
+      "A0A0E1NTB1",
+      "A0A0H2YL52",
+      "A0AAV3BFY5"
+    ],
+    "a2149e62633d542163ace1dbc6c202026ba4924da90887090798f41bc79eabb5": [
+      "A0A2G4U2G2",
+      "A0ABP2DXX8"
+    ],
+    "2f42b9dbea35f69b4a9591363691353941c662e3bc7c07ad7999851a79d947b3": [
+      "A0ABM7AH44",
+      "A0ABP1Z8F7",
+      "A0A0H3AZK0"
+    ],
+    "e62839b7cc06390b37ba1d649a09e462e091cb2e01a2932476e5fd9c8f59e3e0": [
+      "A0A380PNY7",
+      "A0ABR4W6J9"
+    ],
+    "d99e2fd901408babb9f3b4fc9988d34c2fc178dbc1460cc57e0dd2cadba75fb5": [
+      "A0A380PNE2",
+      "A0ABR4W9H6"
+    ],
+    "eda9d29ff13b504b8f2339e8199e037dc7cd9856c188a151424dcca3a5abc87c": [
+      "A0ABR4VWS1",
+      "A0A380PNP9"
+    ],
+    "c86f6fb4c396d96b217b5c24d0a82d4564e869f70cbb8c217999fff366c517a2": [
+      "A0A0U1QVC6",
+      "A0AAX2I0L3",
+      "A0A0H2W1J5",
+      "A0A0H2YKF3",
+      "A0A0H2Y6N9",
+      "A0AAV3BFT4",
+      "A0ABM5Q1D7",
+      "A0AB72ZN12"
+    ],
+    "7c5a01699170889980b9ac84e1466b5f96f4e1530e56cd7daac514ca274cd236": [
+      "A0ABR4W5R8",
+      "A0A380PNA2"
+    ],
+    "1bfa78d7f6db324dd179c6f4e35a6de9dcfc099e7d657d894d46dc1f4b50e456": [
+      "A0AAV3B8C2",
+      "A0A3G5LJP4",
+      "A0A0E1NQK2",
+      "A0A0H2YNL1",
+      "A0AB72ZRU3",
+      "A0A0H2W0D6"
+    ],
+    "104163298f84d6904b2efad647078a6878880739ca35ce0a3d2d77cde279971f": [
+      "A0A0E1NNL7",
+      "A0AAV3BFB4",
+      "A0A5P8YE56",
+      "A0AAX2HZP5"
+    ],
+    "84d3f963eb0fec0848822a182db2dc901bb44bca83c738e848d3b5a143eb4271": [
+      "A0ABM7ANK9",
+      "Q66CW8"
+    ],
+    "ca3cfc3ace609af21661f749a78f43f25af81630c8cf904b3afaf0ca239300e4": [
+      "A0ABR4VY47",
+      "A0A380PNK7"
+    ],
+    "55a33aa3cd87c597f4b3f2d72aa3ea76f9d4cfcd1b1f32b80a657115b7ca53cd": [
+      "A0A380PP39",
+      "A0ABR4W6F7"
+    ],
+    "adf550d27fb5a336186d50995ad317ae05020747ad9a6d9d2b84dc652ab9791d": [
+      "A0A0H3B6E0",
+      "Q66CW3"
+    ],
+    "be540ceb7b18c4cc833906aa6c575a7636d579315222c936c39b6cd799bdc40b": [
+      "Q66CW5",
+      "A0ABM7ANU6",
+      "A0A0U1QUW3",
+      "A0ABM9TCW2"
+    ],
+    "b2f3ba8bd648714615a04e6363dbe12abeb9543f7b6b2a878e93c4b55f9312c4": [
+      "A0A0E1NX19",
+      "Q7CIG2",
+      "A0AAV3BF90",
+      "A0A0H2YGI6",
+      "A0AAX2I8P7"
+    ],
+    "26b3f589ace3367335065927a50ebc172e1b7afbe5c8c1238441999d9d04f213": [
+      "A0ABR4W506",
+      "A0A380PTJ1"
+    ],
+    "41dfa0d4286831826760e08a0dac2681a761be220768d2d22bf70223cdfedc84": [
+      "A0ABR4W522",
+      "A0A380PRV1"
+    ],
+    "21d03f0474df24853ac4d780ed8e16bc2418c07970a6e08a6fdc7faff4b7279d": [
+      "A0A0T9PTD3",
+      "A0A0U1QW74"
+    ],
+    "d93d3277ff2a751c77b69618634759042f53f2597023181db176db5fabe18adf": [
+      "A0A380PPA0",
+      "A0ABR4VWZ7"
+    ],
+    "974103c199b4de0f6cfe1e34fd9c48b072bb20c60df3626fbfbe708a102a4fc4": [
+      "A0A0U1R2K8",
+      "A0AAV3B6C2",
+      "A0AB72ZJY3"
+    ],
+    "b9a593ee2bf44b0150956d7028f9335d0d2cdea50651b7725d83f229c3022ebc": [
+      "A0A2G4U1S2",
+      "A0ABM9XV01"
+    ]
+  },
+  "invalid_sequence_records": 0,
+  "max_score_reconstruction_error": 5.500000000990823e-07,
+  "fixed_weights": {
+    "target_context_score": 0.55,
+    "docking_support_score": 0.2,
+    "solubility_no_chaperone_score": 0.2,
+    "global_engineering_residual_score": 0.05
+  },
+  "rank_file_sha256": "85c3c3b9b8e5db3827fbdc7945426666226beb46b8461dd8605e187e50c94886",
+  "sequence_source_sha256": "f57f5e48db4e68ebcad41cc61c56fc0bc05890b316cffa74513c88e7c788cdf5",
+  "scope": "Retrospective full-pool arithmetic missingness ablation; not fresh docking, not biological accuracy evaluation. Exact deduplication is not homology filtering. Sequence source is current local B0 mapped by frozen candidate_record_id; historical temporal provenance requires source records."
+}

@@ -1,0 +1,4137 @@
+[
+  {
+    "candidate_id": "Q9T0Z9",
+    "sequence_sha256": "237c0c8d6d1fc671fe1d6b4fc132154cf7b8044ec87216cbfb35e32c9c2f3c0d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4GHF9",
+    "sequence_sha256": "3d638b35b546184ac847c1288314396dd0dfb7da01d79fcb31a8d5759bb74eb7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7K2S1",
+    "sequence_sha256": "31af91cfbc9aa9e674fab1a2bd2b1581405808214a027ab656f63716f9b8f75a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A1V0DXW2",
+    "sequence_sha256": "d79cea01584a0b61d00656930b19cef1b4a366133d8e8ca7ed6c0f9775600097",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAD2UYA7",
+    "sequence_sha256": "4162ecdd071e275c3f9f01dc72a0b5175b5a1e0394dbd5a1cb3340d7fb46b9bc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5MLA1",
+    "sequence_sha256": "5f5f9211ef028b655d15e9047abd7cb1c6e487af81719a9daa092beac5738a0a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0G2PMU5",
+    "sequence_sha256": "699ab633ea6a90a81465b27e99819190b56e586bc629039b6d35f0e2423c6504",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "B3VCL5",
+    "sequence_sha256": "f48fac3ae786f3fb38b3fee0e1ac105ab43dc6a80cd288c0463e3d4deed67f40",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q858J8",
+    "sequence_sha256": "b52688302df2559fdf274b7d94dc047f197964ad1e9e2f0a9cfa4c768bc7f388",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE7V5N4",
+    "sequence_sha256": "671b0a26d696e9d51ee6847d290c5472f9fabb476cf9b9ed0a08d2e284251307",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A6M3G9R6",
+    "sequence_sha256": "37276c3a50e79940a814c237c70db0dbb257dbdba752b9d03f0ef451023bf234",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0P0LE96",
+    "sequence_sha256": "e92abc0cdf34f2e59b61c8a28763e87d31c64cda99dc6bb5f7299896ad81d52f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3NKM1",
+    "sequence_sha256": "f3019dacd9c075b4e0f69b495d859ded7f5894231b202e2fba138c1ce9f6f2a5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U2DXE3",
+    "sequence_sha256": "6c8c50932ac02f35aaef97a084d9d364f171171b08a5f71d29587014136b1faa",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5M3B5",
+    "sequence_sha256": "89e47e574cb0175826eedd63e6981c304334ccda689d988569ca9c40bbb0a060",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4GE98",
+    "sequence_sha256": "050f48d6bbb1c2af986a6d09cd5207f83b8c12dd65fd07606b21eef83a04f0c2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FSZ1",
+    "sequence_sha256": "1c0cffb89096a4367505ba7d2a130c45a67699827289cac5a4168744a1456253",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FUR5",
+    "sequence_sha256": "0b0a5d194507b490da99957bc67691e4831ffc6f90bf0a31ab40a0970f3b21a5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAT9S6U3",
+    "sequence_sha256": "efe60e0c4edc1bce817107f1e953ab39400334b5852696582c6a4c5d8e6cdade",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX4Q2K6",
+    "sequence_sha256": "5e8b50c56777c4991e12e0f2ded55a1099d85ddcbcd4393261c7a87becf9fc6d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C531",
+    "sequence_sha256": "2f706398545e9484cf3ab23de0e4d902e5f2983144699b324256cbe738e03593",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE7S353",
+    "sequence_sha256": "af70e7c90ab2426588f1267b520d5833a38dc7838ea79ad6b2b98908339c5dee",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1PWH0",
+    "sequence_sha256": "7e60bd943abfc9e1cb1b7e4fae29212ad5b208240d2d771505110ca0ca645295",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q858U5",
+    "sequence_sha256": "b01cd292eb360577ff4b8238e56e8bb274479e8bdbe6c7f38f2952522f54a612",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4JZS3",
+    "sequence_sha256": "2cac81f244e27885be637b43068da76fff60c1cab369ba5833ba5674a22b36ce",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7LHK5",
+    "sequence_sha256": "a19d5b056f427239366299a89fa3bed3f09f4a6ce19dbbc486db245683ff9805",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3NZ47",
+    "sequence_sha256": "d80697b26d5ffe3b4736b6527e486ccd8cf2312ac98625679b5f5030f7c5bb83",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C3Z7",
+    "sequence_sha256": "43673ebc598b71fc36926840a497682eff2af35975666ab1aed35ce712cd2865",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7K3G3",
+    "sequence_sha256": "0d19a5553db33839e3e9d7f1ca2514c718c0e489dff7097164eecfa3420186d8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C5Q6",
+    "sequence_sha256": "04ac1b6e91280345743e73baf98a13155d5aa5ffce3f68edca46fc3bf7579fe0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I6Q9A1",
+    "sequence_sha256": "d80b009022fb672290626551547c1c9dd640ed8b2ce166890938dce88ce4687d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7D3UKK9",
+    "sequence_sha256": "248fe57028a83e391ef05d43c707513edde6079c1819688a95ad6d8b328826f3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C440",
+    "sequence_sha256": "76db5d59aa15d8db44a6c9f68dc6368e96ba22dd46797eea03aa47c29fcfb11a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "F4N2J8",
+    "sequence_sha256": "29627bbbe8ea7dfe2e35208c062a4d62f00d351d957679077a1167c0ec281378",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C5Z2",
+    "sequence_sha256": "1dd7cfdf14ac10499a242a2a50492f988b9e12532004ff5282369331d697e3ae",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "F4N729",
+    "sequence_sha256": "cd565017b4e6079c3c291738af8dbf2470f107cc115a7a8b4567e32bbe435367",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5ML14",
+    "sequence_sha256": "607ce748a4e1fab093556e28c0e0c90fdef605cf8172eaf0be544952202a513a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7LHJ5",
+    "sequence_sha256": "4e6298264c5c9d8277fc76adabec82cca067fc5e5dad4c5bff54a37d0dd7dc9c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C555",
+    "sequence_sha256": "d4fca03c0ade8d07aecf959b3e1f22413af38e6613ae461a59c17e209607554e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FQ76",
+    "sequence_sha256": "6d9f69b6a2a2d5b21dd2584529617d084247e0a796e02e2a82dca4480ee65042",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A1V0DXT2",
+    "sequence_sha256": "4cf9be016acb222c9dd82907ec96196678519449cf00555117b10875c818a327",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7K324",
+    "sequence_sha256": "628e0cfdf66a9ac8811855af973f3e5a7faeaeda92f37c3b328834a7ec1497ca",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0G2PMY8",
+    "sequence_sha256": "725a0d6fec836debf2a97c3bc879782b127ba0b7d0db368c536fa10e0f2bc334",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A088F649",
+    "sequence_sha256": "d04c570455dadb2885ec7beccd299a76d7320d05ac41aa68161a025d3151a77a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5M9F2",
+    "sequence_sha256": "1b77bafe97676059c7945334f5b2df29004279673d1af9686ce84ae0000d71f3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE7CTI2",
+    "sequence_sha256": "81f52f281797e2a3702f544a73dc81aacaf4a9638add7bc3e6f56900d19e1735",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0B4ZXE3",
+    "sequence_sha256": "3124183e9821df432db7ac3c768868a86e973dbef06e467487b2cb79b378a225",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3NZ57",
+    "sequence_sha256": "743e21f9b05dae4a29b622853aea9b32658cf3fdfe77ccae6a2d0c884fee96dc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5MRA5",
+    "sequence_sha256": "c60d3696ead8f7842f23b321a2e85f8ae3f9104b6bf012aa89e9c5f9b9c29e51",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0B5A4Q9",
+    "sequence_sha256": "cfb1b0edf5a228825f7dfae24d63985f58af86415032b76c5abcc0525b434e54",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A3B8DLH1",
+    "sequence_sha256": "9c3da55da037d84892cdd5db6064e19c91cdb3333519a4cafea9423840f828a8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C3U4",
+    "sequence_sha256": "79f68b4c624ff7b2110c55de3605bd682d1957a8c6a6caaf7813391e44ea1321",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX4Q199",
+    "sequence_sha256": "05ca9265f46ef736acf4f89b5bf4cec2148b16c56c4ee13605d4fae053b874c1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A6M3GA37",
+    "sequence_sha256": "2c217471858defdc752c220402df9ee8d3451f1b257cab61c1ca7b0e9e732dfc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A1V0DXR7",
+    "sequence_sha256": "c030ff42fc3bbff5f22656d93eb4a73fdf681a74e48dd6cdcbb089d3dbf2953b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0G2PMU8",
+    "sequence_sha256": "5064f6fcec4467f4c520f81f523bede6bcb7c74c31d38b22320b5989adc258f2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9JYJ2",
+    "sequence_sha256": "120f3af6759a264e52478235dfbaa81810e5f380065545658e80af9f323aabd8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7J474",
+    "sequence_sha256": "ffe762bf42609b725c0518ff6f72a43197722791892ee8fc63033e80c2d6664e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7KR83",
+    "sequence_sha256": "df2d099338d5c31a67515047bc0a21c189f8f9fb36971df1ceade94dc69581f6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ZXG5",
+    "sequence_sha256": "d014e9f121fd72e570d570d0bbf9b3c8d0cabe55c16ac46ecd2105b4d7fe782e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C435",
+    "sequence_sha256": "672a53ea2d2286f730ed76d4c5f08b2e1b959fc130853cd00fa68ccd6956630e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4K0B3",
+    "sequence_sha256": "b5b44457b38e48f8f34693faee6ae52e118267f4a60339edf4a9bcda19bb25fb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FRM6",
+    "sequence_sha256": "4e190b980574b21f7a969d040dd80de5b0f6af2dca0924009fba2fb2e3a0d51c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE7PDX0",
+    "sequence_sha256": "f714de0ba23f8323ef126203da7cc2f5d44e81f44385fa6f1eaea034037fc583",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2C9CXH4",
+    "sequence_sha256": "9909ec758661fd1e45d2c2fc8bb7ec113883ceded26712a7cc0d7a10b92aa7e4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7D3UH03",
+    "sequence_sha256": "248fe57028a83e391ef05d43c707513edde6079c1819688a95ad6d8b328826f3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA51VH76",
+    "sequence_sha256": "48b98c90c4a18ffd2a09e4f6ff16cf2dcfeab9427f82fbca6470ed42415c2227",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2H1UJ87",
+    "sequence_sha256": "22a1d747511f18cc857c257a7ce53920f6125862962fcad60dc7f0d89058f2dd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C528",
+    "sequence_sha256": "ba66f857772480b5cf0b8efdd5551124bbe5f4f238a153f0667abcc4fd5cbe94",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A6M3GA49",
+    "sequence_sha256": "159abe8f58dd77d29862503519a2c442aece6f10cf05df0aecd3b00188ec4c46",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A1V0DXD5",
+    "sequence_sha256": "daf6db49e9a1364fd6ffad5eac8abdb1f89f7c8a4a1d254396500802750b9915",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A3B8DLJ2",
+    "sequence_sha256": "6f4d5e0334002805ace884c84d06ad49b30fb72006e758c002e1a9240ababea8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE7PDK2",
+    "sequence_sha256": "7bcf2e151a6f658f0221f3377dccc250e6b3d07e723801d6ca576983f0d61113",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "F4N728",
+    "sequence_sha256": "7d445189e2f584bbf2b94cc19513900eb235811ee122d8ef1382265cb26bd03e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9JVZ5",
+    "sequence_sha256": "b9eb1d0ea2da37f8418fe2f839432f3c245324d01d42848e49252746b353315e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C5C7",
+    "sequence_sha256": "1b0b186f668edacaa8e8fb4cde25f22ca7559860a0c6bba59938608e5d16ce1b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7LH81",
+    "sequence_sha256": "bf33fb7cbbaf7ab3fc2b3401420bd3e4ec7f934fe0d20cfdb66b18a78373ff72",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A1V0DXT5",
+    "sequence_sha256": "b2e413efadfc3a1db0e2cd185f6dee8de7b5ced2172e482a058312b4a3b34f4c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A6M3G969",
+    "sequence_sha256": "1430accbc644ca24791119775a93a23100d06bf79301b5d3efa07f8129fdcf46",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX4Q2X2",
+    "sequence_sha256": "f7a5e3b1382a78cd7009fb060e41c99cfe086efbb2623b0a6d3e24265f531240",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2D0PE70",
+    "sequence_sha256": "4014be7c3ef4e103e5b9829fd014cbcfaf85532cd94d88bf1df5ab2ef9fd4468",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3NU58",
+    "sequence_sha256": "191db7b8b8722060d46efe82c9dbaea1d1c045e403e1236214d89e958bbeb7ba",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C3S4",
+    "sequence_sha256": "6f4d5e0334002805ace884c84d06ad49b30fb72006e758c002e1a9240ababea8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5MRE6",
+    "sequence_sha256": "ffe762bf42609b725c0518ff6f72a43197722791892ee8fc63033e80c2d6664e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A3B8DL31",
+    "sequence_sha256": "2a666ca6318f09aa43a03334b79128df3a18f9c0c6069f1512bdd1c7786c7019",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA86IWK5",
+    "sequence_sha256": "2f400e1a1324d766d1e42dff8725a8a32b9d6118187d7d6db69e34e5481bd2b1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7J3W0",
+    "sequence_sha256": "84a2d81af953409da4c8b8cd4640fcc620f99bd9193b2cf0a6e07d4f0bc0ff66",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0B5A4J3",
+    "sequence_sha256": "d6f9008ad57bfacf5d573b0f63e7921cca64d6de7dfe858373e11a248d8a4276",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C6D2",
+    "sequence_sha256": "b5711a30bdef7d5d69cab4168d5ec50d2c9609e387af6ea87afa33618e04aa6a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0B5A2V7",
+    "sequence_sha256": "13a994adaf0ac733e77d8603838499fdde843f7b52f701672b297c2aaa943672",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C638",
+    "sequence_sha256": "2b68d55f296d4d1e2d84608f1b51b0dd61472867144c16719f63cadf298afb42",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C6B7",
+    "sequence_sha256": "604fafc01e6d46e56cdf010248900fb8da594177d1da207abf2e2312ef0a0ec0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A6M3G916",
+    "sequence_sha256": "3cac0b6d3f7228ede3995a3a979b8bd912b056ba6c5378c2f8d6324af2410d67",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5M3A7",
+    "sequence_sha256": "11d1ee65f34fefbfb32c941afbebe2e337e4f98f35e6fbcade45dafdc0a61c9a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7K354",
+    "sequence_sha256": "c9164f21de26e79a3b697a2e2946ae15424510e9a3cc10d01ea8ee2a0703418f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7D3QKX7",
+    "sequence_sha256": "37d84f894940dacef7e744931fff795f60fa1b51dc3b7634d121eaf6f12106d6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C4D0",
+    "sequence_sha256": "6ed67736947b06c5b3c9499057e4c50c0a734de342012f26c6a5e68dc89fa5d3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7D3V1W8",
+    "sequence_sha256": "7616c3d1d09ec787d4b14966d1f37c17dde8551ad938d52d7b2cf02e9ca7596a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0B5A2N3",
+    "sequence_sha256": "dfdceecd033f31b8485385a05a5a2d2364c7cd6621adb0b42f30e844fa58aa6d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C3T4",
+    "sequence_sha256": "c76f1f618c3b18e6c12ee56277b0d825fb9565f654d947db1eb98c3a3002d0ae",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX4M7A4",
+    "sequence_sha256": "5e8b50c56777c4991e12e0f2ded55a1099d85ddcbcd4393261c7a87becf9fc6d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX4Q2U9",
+    "sequence_sha256": "2b6b20df2e215a9f284c803201b39ff8ada378ee3dd5803de9d9b84c0d8ea4ee",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAD2UWV2",
+    "sequence_sha256": "f299fa7ed782e1725c2f71977ea15791de52632e1f9574beb589951bcfd8df78",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3NZ59",
+    "sequence_sha256": "5de49a2fb62ad509b5a473cc5b1416941405bc94957fb03292741fef8c212031",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7KRU3",
+    "sequence_sha256": "64d7db01e5833bafd37f2de4275733855e76a9e2aae78f852eb267f23a69611a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7D3QQ81",
+    "sequence_sha256": "76793b46462363d4eb0761e439fb1c621183e49a1db33d14ceb2ad8d01fb93b0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE7V728",
+    "sequence_sha256": "a6fe5d52340c5a57d05a56c55aeb55c687b87310ac95ad2a07998f375a7ba375",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FLD0",
+    "sequence_sha256": "52d34f1c06f30f4dbb6e8b7001331436c3ed5ada0df578664ac638f4e44457dd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A1V0DXX1",
+    "sequence_sha256": "bf5377f39d746d87923e0251031d936895e578712b3f959c6c4870ec084b5c2a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX4M7M8",
+    "sequence_sha256": "570c57ee973c818abad8db422772b26d47c18018c9d560524b5f1f11b911ec87",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7T9XU25",
+    "sequence_sha256": "191db7b8b8722060d46efe82c9dbaea1d1c045e403e1236214d89e958bbeb7ba",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C5D9",
+    "sequence_sha256": "bae6fd3db6f25329d4979da4bb796f665d2c665ba887884ddaf139ecbc6896ac",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3NP24",
+    "sequence_sha256": "a4cee65edf974d29704d4033c0d45743b8866df476d9a20379e7c2ece003a66c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A3B8DLI7",
+    "sequence_sha256": "5d5b7750033ad263a3aa2ed64e714dba04a2047b05c665d2a4bc7f684c73d56b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A1V0DXS1",
+    "sequence_sha256": "8caed1e0fcd0e449c2307832d0f793e4ca68f1ea4a7dfcc2add3c720dbe1a07e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2D0PCZ8",
+    "sequence_sha256": "42b7940564c3a76c8aad97e622d31ef2672faef474ee997e61e217dbce5ad95c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C3Q1",
+    "sequence_sha256": "afbdf08bf9ae46d9808227a8aaff04d36766f904139a7ad979e273d68faa4561",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2D0PE10",
+    "sequence_sha256": "97f3b942e418373182d31829cfc9876c343c50ee8319fbc06cde831c269f5517",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3NSE3",
+    "sequence_sha256": "de51f72fcd0a7b57a19fdddbbb91e108a30a5784d6eef99d60ce590dea589b63",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2H1X991",
+    "sequence_sha256": "d4ae2b2bf8d1578d1ba198657f5d83dd344df5c251d8dd0f528a1ffc4372ae9d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A6M3G8D1",
+    "sequence_sha256": "9dba963c0baa1e6cf75240c57d05a6956ba62d98ab81a625a6945eba9088847a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE6YPH1",
+    "sequence_sha256": "2325979ebe64609469ac80b608e7fab5db22dac80087bb1e3ab048e29b929428",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FRR2",
+    "sequence_sha256": "624883a43a9af2916499320bb99ba9a9dba65532f2574368c79ee7bed37df5f4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA51VJM6",
+    "sequence_sha256": "21197d950550b65d549b9fafb9ea88e87832054d8f3e1fd6eaa53cc0283732ac",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FQ04",
+    "sequence_sha256": "b8b2f611a634980d1cff63e95dcf9a5e7dcf53bbf397cc0a5540407b7678aae9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A6M3G876",
+    "sequence_sha256": "95bb9a672489a22e56cff332af0c30826906311efdca1802c73b5ad29ede7eb0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5M7B3",
+    "sequence_sha256": "119d81a92e10a9d426e4f0495a3b5ce9ca5e2e9f1a9e8328a128c30783fa35ec",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C608",
+    "sequence_sha256": "ba884122d5ed51a18ed327a97db07630235737c505b603afc8c0465312d59e57",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7D3QML5",
+    "sequence_sha256": "187cfb9b158b55a76f889adbc16793d9b530a504e87bdcf9793e349d0b4d90b9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX4Q195",
+    "sequence_sha256": "570c57ee973c818abad8db422772b26d47c18018c9d560524b5f1f11b911ec87",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0B4ZZM3",
+    "sequence_sha256": "823b1b8413611300b2f374e8c5ac5cd3714d1a57f10290650d352aa6f3ba8434",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C619",
+    "sequence_sha256": "31a37b1ae224065605ec42ef824000753eced9711ed97fbbb417b69346df2497",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7LH90",
+    "sequence_sha256": "1d6f911d919b2347d4e9674691083d6ad88ae7dcae94bd5a5f4d6b790ee41279",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FKC7",
+    "sequence_sha256": "2432a28d9e879530129845ebd860ff87f83e33e37c662dc6fee12a8fff580d68",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A1JNF1",
+    "sequence_sha256": "9c66f70e15ca6cede90a2218d2dba89b3ed09b0f77b34accccea8ab4182f513b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7D3QJ92",
+    "sequence_sha256": "a6fe5d52340c5a57d05a56c55aeb55c687b87310ac95ad2a07998f375a7ba375",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A6M3G874",
+    "sequence_sha256": "2d36abcb71cc025212b6015e8d6bf8dbd6ae205a2de558fa28dd145958fa86ee",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5ML49",
+    "sequence_sha256": "64d7db01e5833bafd37f2de4275733855e76a9e2aae78f852eb267f23a69611a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C567",
+    "sequence_sha256": "b8184f85824c98c4fd1318525a0bafb6291ee360c42b2a79267d83f7cdc59a15",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE6YNJ4",
+    "sequence_sha256": "99436ee727b518996af5a9730251574483dbf317659a66901ff9bf0b00551ab8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A6M3G8B9",
+    "sequence_sha256": "0bf520a709e3cd9e09da97259d25b24a0afc33691b6aa0fd12d8be518aa4f161",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A3B8DYI1",
+    "sequence_sha256": "46c698733a3555a789af628d58c3c4af0f067b96047b4c30f6fb3eea5a10a808",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7K3U3",
+    "sequence_sha256": "8a0030bbd0d956b67754f46d848606e7fe0f2fab302f36fba0792cff2cad2d4a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7KRG5",
+    "sequence_sha256": "0c31e14dc955b6730d174d853662967d5a0af3bb7802436c162f3560ce77f80b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A1V0DXW6",
+    "sequence_sha256": "05896bc215d19f69116b05c88f59c2f5d95ee80c8b5b6cf3e3aec2ebbcc26e5e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7K349",
+    "sequence_sha256": "57572f028896b43cbc1eeb5adc1d8cb610a5873374b679131089bfae89569c42",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C4X7",
+    "sequence_sha256": "5d5b7750033ad263a3aa2ed64e714dba04a2047b05c665d2a4bc7f684c73d56b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5M3D7",
+    "sequence_sha256": "c2a113df13829c5d394c60d6b34a96a380f0441ae6fe254804eec716a3ebd6a9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FSY2",
+    "sequence_sha256": "c5e9b47b2bfd7abb3b316697bb36d54c7661bfde852bfcc62cabd36d5b6adceb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4GCC7",
+    "sequence_sha256": "5e60078f5022020eba6408a6f8e7248d57e62aea377dfdf3b32cb1f912e00453",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5M7E4",
+    "sequence_sha256": "feac0b4e4d5c1feb8a0969eb5cd97372e39cb857fa39c3b126b53d3ca8e7cd7f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C3W7",
+    "sequence_sha256": "ebfb73d8e379659d6594d98dde48b50dce8814b33af913c389cf8680999bcabb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C5Z9",
+    "sequence_sha256": "e23af39f036a1a7bfdc64ccadbee64de11830b578708bc809a3261599edb9117",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5ML17",
+    "sequence_sha256": "040be1e68ad368a2c6482671b0a8785e77da58a422574385943d2832b915243e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FRD5",
+    "sequence_sha256": "7ff1b51a87329ebfddb53bdd4b196cee109f29578007f7730c4a3ed11dcdce1f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2C9CZQ3",
+    "sequence_sha256": "6ec1dc0e2041a72e74353d252f67911df51b7391210e7c01733a4da53f6e9d57",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA86IYU9",
+    "sequence_sha256": "83a5d20c9ecb405a2581545e4d8521d0434a83122b6aceccfd389bba2e50aef0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2C9CYF4",
+    "sequence_sha256": "9909ec758661fd1e45d2c2fc8bb7ec113883ceded26712a7cc0d7a10b92aa7e4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A3B8E1I5",
+    "sequence_sha256": "ec4dc0b62a4d4bf1c761d3fe8a508eac9c274d3b8017ed6885ca68eebbae1604",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4GG50",
+    "sequence_sha256": "093d5c794d294031bd09619a543bfc9fc8ad2a7cdb554a7a39c0fe33ac3d2662",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7J3Y3",
+    "sequence_sha256": "f2e66e102d3142fd1c6eee4420f52b9d7ebbece1f71db057bb65e4a0c9eeeba2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7KRT2",
+    "sequence_sha256": "9dfdea0e8611792eb79b0aee13da89d344b2d8589c7648641b6578d39fb53956",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7D3QKS7",
+    "sequence_sha256": "00bae73f29372ffc4f0a9d0275ab5227ceb9e532b74a8d5f562f6ef21bc2d61a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A1V0DXV4",
+    "sequence_sha256": "ce0a186fd6a658e10ac967d993d74e9642a1de109ac18eb51901b8e5f7e4f45a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4GDH6",
+    "sequence_sha256": "f9b505a505c6b08e3d31f9df966fd7b586b153a150fea5fe930f88ac72758819",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3NQY6",
+    "sequence_sha256": "31d2481956634396cb1771258240340f76075306ef769032bbc3c32992dc705d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C532",
+    "sequence_sha256": "19cebf4c7fd935e824a2addef9ac99b1720ad95066d33615639df08dccd0937e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE7TQG4",
+    "sequence_sha256": "12495a29b4ffa388d4d1157d4dbe8f4effa4704d0bdd1a183b0300979debf001",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C648",
+    "sequence_sha256": "108c5d5aa6d9e280a950b35d22cb192f77fbcbc58ad417da23d69a7d71b4f78e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7LF14",
+    "sequence_sha256": "907b524a8727bb7813c8737d9726626848799a8f64ff085a5be400250b3e6dbd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A3B8DL36",
+    "sequence_sha256": "28fa4afe87ebc9bb46fa36053e4d91e3d25f95a2f52536ef3fbb773f0c1e8069",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE7TR04",
+    "sequence_sha256": "fd6c32af2c3a12f8f167667b0265a856fdc491e0d72ae59766a2630f55db355c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE7PH03",
+    "sequence_sha256": "bfd54e1583981abbf4431534c633e7592fb95b878ac9bbd1ce763e6a19679abd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE6YNV4",
+    "sequence_sha256": "8889d12ab36111b56918ad1578ac1b55e658acca6bd369a00e5e58c1a9e60bf3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I6Q8T5",
+    "sequence_sha256": "a37481208ec4ab11255ef31086c29790823f520b1d9d25c7a024d5c88e16addf",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A1V0DXR4",
+    "sequence_sha256": "335870e109a48014b7cbaa7517c1b2871685736ba9bcd1d0645c6ae4c825f85c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "F4N708",
+    "sequence_sha256": "389ca91b6c19c71e78fc9baa0a7a08b7de13947ad3fcc63110a6a14774d02f8e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C3X5",
+    "sequence_sha256": "c2a113df13829c5d394c60d6b34a96a380f0441ae6fe254804eec716a3ebd6a9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9JXJ1",
+    "sequence_sha256": "cce8b65c32cf698ea93ea85a38fca8ea76ffc956291c498056eb84e80ee91266",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C469",
+    "sequence_sha256": "4471f0d4a527231e697a2ef5847a063d05ac2881ffcf8184504879c82698166c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C5X9",
+    "sequence_sha256": "e9c86fef13f6dab689fba529c0c71f1781afa5497e5f042142f884f3a0ce0bc7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C542",
+    "sequence_sha256": "96d277e947078ad4c4dc8403b2e6ad2b1871468c7c13c029bba0474c9f806960",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A3B8DYS4",
+    "sequence_sha256": "3edfe630ee445df3756c1577b201bfe8cf8875e68895eb8d116aabd239e32b0d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C597",
+    "sequence_sha256": "e23af39f036a1a7bfdc64ccadbee64de11830b578708bc809a3261599edb9117",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0B5A4M1",
+    "sequence_sha256": "4000bf2d939615e603032420f8ee7887c61b85f4fd5bd0637c2cb6dafbb322de",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0B5A2T1",
+    "sequence_sha256": "9c385d83860fa21ad3e4b0445a5eaa710b6f26e7155e517008ae997cb912c887",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4GDF9",
+    "sequence_sha256": "15076f62f53e269e9c7479433879b8dc997fb601be81dc381ab9c3609eb79a40",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A3B8DYH7",
+    "sequence_sha256": "52d7551e8d92917a69419c596884a74b79c8ee5532fca7a8ffbdab2580c1e248",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2D0PDX6",
+    "sequence_sha256": "97f3b942e418373182d31829cfc9876c343c50ee8319fbc06cde831c269f5517",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5M7K0",
+    "sequence_sha256": "4966f03ec8573373217838accdb56da4421f7fbb0ec2c1466b22d4bed78f6601",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7D3UL75",
+    "sequence_sha256": "d6664700c606c9d93a85390f316aae21c29e5812381588bb6116593fcab9bb9a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE7V5W0",
+    "sequence_sha256": "b64bae15ff8784aae51485f573dd47d01670a453d984853700c27421f12769f2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1PUV5",
+    "sequence_sha256": "20fa113d4461c286ff9a78fc483ec7ddd4a2523b8a5c148cdbd2d239eaa64b29",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE7S224",
+    "sequence_sha256": "ea6bebb5b1a264cc5f584a0da9dee4e50684d968d95733482b8bdf8acbf63b35",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YI01",
+    "sequence_sha256": "4366732b782ac7fd5235021d196bac699f778066aac123f1b939c427bdd61732",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C541",
+    "sequence_sha256": "b58f7b4d4a78da073add3bc6554bcd7f18766705d89d88a2df1db5f9da9a1da1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2C9CYV8",
+    "sequence_sha256": "6ec1dc0e2041a72e74353d252f67911df51b7391210e7c01733a4da53f6e9d57",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0B4ZZK4",
+    "sequence_sha256": "55f76a2f6f8eb10b0337076b6d904c8f240e18c4853899ea78813473713ca3e6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YEP8",
+    "sequence_sha256": "75affd1055534bfa916380b452b063c5154000f41da3f3f68d404deb965fdf74",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FQP6",
+    "sequence_sha256": "cce8b65c32cf698ea93ea85a38fca8ea76ffc956291c498056eb84e80ee91266",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE7V7A7",
+    "sequence_sha256": "d7106d0bd2098a289f26f05dc2032a5c364122949a390781ccf4601340eef530",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA86J4Z9",
+    "sequence_sha256": "8ed33f4c737660841282cfba4a0b88ea4e241be1ca6319a2eb210d2624d2dbd1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX4M766",
+    "sequence_sha256": "05ca9265f46ef736acf4f89b5bf4cec2148b16c56c4ee13605d4fae053b874c1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX4M771",
+    "sequence_sha256": "2b6b20df2e215a9f284c803201b39ff8ada378ee3dd5803de9d9b84c0d8ea4ee",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0B4ZXG6",
+    "sequence_sha256": "8c53c5fbb6e8c1a2cefacd1cc87193869451c1203b1d59870e0a0e255e1cfd3a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FPR6",
+    "sequence_sha256": "7ce7d5ead7d8201c092226ffd2240be3cba776feef417749db47f23936e11b85",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A1JK73",
+    "sequence_sha256": "eb19d1061f1a02f26aa985a5b9edd3a3e7c0419a2adfe71230748f201ae87ad5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA86J574",
+    "sequence_sha256": "c65241a2ca0ea94176df233b03e6932fccde248ae10d08b43d83dd43d733c6cb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7KRB0",
+    "sequence_sha256": "1defc3cc2b46d161e3235734310489854e7107da6f26eea002a16d0d07abda11",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE6YPB5",
+    "sequence_sha256": "915d193a8762edbd27453520265a4304f29b79bec54117882e53ef0f79205f25",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A6M3G945",
+    "sequence_sha256": "8a0030bbd0d956b67754f46d848606e7fe0f2fab302f36fba0792cff2cad2d4a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5MRE0",
+    "sequence_sha256": "4c4ccea08d4e1c03138738472c5a287304f974a75397695820979430cb1f3d96",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FV72",
+    "sequence_sha256": "636399346ce23b9b35b5e8a4ef8e2c51bec57c8e03780173b5d270b835aebf4e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A3B8E5R1",
+    "sequence_sha256": "fd240f48f0d7ad844092d6ad13ac1caaba205bfe61fff6fde4c32a2ec7bdcd24",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FSV4",
+    "sequence_sha256": "ea28b73c4de17ebb49e39d6dccb52f37b83c570a5cdacde42a5713e8bc2fa348",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1XZ23",
+    "sequence_sha256": "8000ee50b471df4604ce94c4d42be59c5d33f19487f9d934ae817bc778b362a4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7LEG3",
+    "sequence_sha256": "04c9ed27ed031421e35b1dd070bc33de5c857f0f18c1fd4af721809c29a5c257",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1UYK8",
+    "sequence_sha256": "aefd78d6cf66525b54ab01a14d3d257c65d902088c25d15e62c121b865731bad",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9SIE6",
+    "sequence_sha256": "b6480289082a2048eab816b4ef0a5f830401513d4c10bf151984204378d0328f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C473",
+    "sequence_sha256": "e23af39f036a1a7bfdc64ccadbee64de11830b578708bc809a3261599edb9117",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4GE85",
+    "sequence_sha256": "0e08a825d09139d6a2cc527dc2a040c7ad2f1ddccc9edd2949d309da6e9b8e38",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7D3V4S6",
+    "sequence_sha256": "346fee2d91802e19033d266729a37ae792bce18d461c1b4fd8736c399cb4b5e9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2D0PDR4",
+    "sequence_sha256": "22a1d747511f18cc857c257a7ce53920f6125862962fcad60dc7f0d89058f2dd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7T9XT11",
+    "sequence_sha256": "de51f72fcd0a7b57a19fdddbbb91e108a30a5784d6eef99d60ce590dea589b63",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9JYN2",
+    "sequence_sha256": "6edf1e24d9022ed483aaa9ad67fe83aae973b6a0f0a1e015ddb52816d09d0efb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A1JNA9",
+    "sequence_sha256": "f497654b05df2f93dc6dd26e7b35617bc9c1cbc2d108d157d630d2fd95fc7cdf",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9JW72",
+    "sequence_sha256": "42b44597ef6b46111e8a7bfe09967c530bef1c9be097bd7721959d9485ef9641",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1PT53",
+    "sequence_sha256": "b303c703ed7493f0564866ffd3e22f7846fec6523467838f44b90b0832ed765a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "I7LEN8",
+    "sequence_sha256": "50980a022c523613019fa33b2f8300bd029613885ced0678510f3bd6e2d5fca9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q858V3",
+    "sequence_sha256": "262e2dce3a83f413159fef40eb3490466ca749cdd97b8b042bfb1f22f2631977",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YG46",
+    "sequence_sha256": "f30371cf4a1ae35f65d8bf4b1c02a61df57b3740e941bb3473243639dd70f40b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3NU55",
+    "sequence_sha256": "5c7661255b6417f8d4e5b85e80815c82ac330382b777dd1e5451930b4340ba28",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C3Q7",
+    "sequence_sha256": "3edfe630ee445df3756c1577b201bfe8cf8875e68895eb8d116aabd239e32b0d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C610",
+    "sequence_sha256": "c2a113df13829c5d394c60d6b34a96a380f0441ae6fe254804eec716a3ebd6a9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YH51",
+    "sequence_sha256": "203346ec2af5f5b14777fd9f635cebb589920da430958ff0f091dec537c9065a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2D0PE26",
+    "sequence_sha256": "9d1397d58108a337d5c687f84fdaa289f1533e04a8b954d05b1f7f5518bfbfb4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5HBD5",
+    "sequence_sha256": "5fbfb415fe10d3339b32e76cfb5d9a93ae390eaef4bad1621f5cda6c1102c6dc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9S2F3",
+    "sequence_sha256": "a0420c566a75f06c02ead6f59fd672763628269d43a90b5a66f44b034c3b243a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9S2J3",
+    "sequence_sha256": "3eea19fd0600cfc0ce5e85d55c22b8c97749fe9d05906207cb3c0c68fe19aa62",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A6M3G872",
+    "sequence_sha256": "e23af39f036a1a7bfdc64ccadbee64de11830b578708bc809a3261599edb9117",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5GK99",
+    "sequence_sha256": "4bbc61ba69641863557df261741f10427e1248ab63f09c7d23e0993b9e339d0f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3NQF5",
+    "sequence_sha256": "00ee628f2b7359ea1f96b3e7a0a70052969236b511b4e9fbd368a224c5d53c97",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAE9FL40",
+    "sequence_sha256": "40ae5c25746686776c9e498ca5c295931d600c72657fc23f3a370733d4ffad5b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2H1UJ90",
+    "sequence_sha256": "22a1d747511f18cc857c257a7ce53920f6125862962fcad60dc7f0d89058f2dd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A6M3G8P6",
+    "sequence_sha256": "3edfe630ee445df3756c1577b201bfe8cf8875e68895eb8d116aabd239e32b0d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0B5A2L0",
+    "sequence_sha256": "5b1a0d9883e5f765f7211eb6139a28704c25f37401ba69fef2843f0abec67f9f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C6B2",
+    "sequence_sha256": "a1c16d52570f0024870712b3f8f292a28f7b29acde6ea66f675c3dc230d8660d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5H8V4",
+    "sequence_sha256": "a2b43ff489a91804edf8bf27b14bb08d0ae25e6bb93e454d3a699849f5904664",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "F4N731",
+    "sequence_sha256": "93471b935d5015e8c512ad9c3645af66a106eec67cde03dba277722e07bfb8f9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4K299",
+    "sequence_sha256": "e3d43fc2eac0d5ea801d1e73e5c260d08b1ec9c61ccc420a4b5af55498efe2cf",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1PUI1",
+    "sequence_sha256": "3ffebcead9c81411cfea4742899e42de3a5d2ab68fce385cca4575fe67150089",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9S1Y8",
+    "sequence_sha256": "b12d11943a554f443761b33268677d829aa2104276852ae1161593bd2b218ecc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAD2Z2V4",
+    "sequence_sha256": "71807bd2945656f5c28f8e8683b70ef63079660267003f1ca38dd7f74a9ceaf2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAD2Z484",
+    "sequence_sha256": "77e55abb13c3f4a4bcbd0f61fa72961fe20760398f1f67cb4525a7729b87c123",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9SIR4",
+    "sequence_sha256": "02214e4db4f8a9cc215068291bd6e20a2f85695d8b2d3ac212f6a6050f33f60c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1PVU6",
+    "sequence_sha256": "8852df6a39d3a2ed013d82191e850efe8c6ca4857ec3926e9eb154aaf247efdb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1Y817",
+    "sequence_sha256": "288a50ed51b0c629fe9fd37ee6924c552c4df20efbd098df4859fa41e00713af",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C4V3",
+    "sequence_sha256": "3edfe630ee445df3756c1577b201bfe8cf8875e68895eb8d116aabd239e32b0d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "F4N725",
+    "sequence_sha256": "06d519e11cae59ea27fedb57bf4ef1da0b15130f3991e7b3b8302faa5bc6d33f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4GDF4",
+    "sequence_sha256": "e14d1962e07b3464f0a0d5b56402071baab3a2cb5243eb404750aefb91aabf1d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A3G8F0J9",
+    "sequence_sha256": "1103946a36646b99199cb4216d5bc0f845106296644024e2f2fdc75e3357ed15",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2H1UJE7",
+    "sequence_sha256": "d91138b8be54697ffb64d8f69b7e7441ef6adfbcd19fac550c8dfe1417b09759",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAD2V1D7",
+    "sequence_sha256": "75a5584e6673daddb44871fc8cba81ebb00f0e8ff93e74d41cf7ee7e7ea14761",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5H5S4",
+    "sequence_sha256": "8e5bbdc069a6d38a5c4e66317a2fe90adcb5e4d83e841e114d458b9b68a432fa",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U0AV15",
+    "sequence_sha256": "5de49a2fb62ad509b5a473cc5b1416941405bc94957fb03292741fef8c212031",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5HAG0",
+    "sequence_sha256": "ae7106c4c676b8237aee86e164c7848cd7a2d083b070db7e51a98692872bf68c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "F2Q846",
+    "sequence_sha256": "5cb61e21a6e4c11d56a672cbeeeed20fffd994cd9a32c3360ffd520625f1f43f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAD2Z5G5",
+    "sequence_sha256": "69048f4eb1213ff8cc32e6bf3562e4ca3585c094a81c2f78010505a212b9d3b2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAT9S9R9",
+    "sequence_sha256": "6dc5e31347d71f84f8bb59a4ff9ae81071c1e35beac49a9539a40d59f62f7eac",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2D0PDA0",
+    "sequence_sha256": "97f3b942e418373182d31829cfc9876c343c50ee8319fbc06cde831c269f5517",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAD2UW33",
+    "sequence_sha256": "d427f656fd428327094f387708f8771db53f832ce32d2186fab1484ad80912ef",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5G2H5",
+    "sequence_sha256": "fddc251a1005857bdb609dad1bdea9589110b21eb10ae1d42548e748ebce64e1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7T9XU34",
+    "sequence_sha256": "743e21f9b05dae4a29b622853aea9b32658cf3fdfe77ccae6a2d0c884fee96dc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T7P7W8",
+    "sequence_sha256": "8e1c016ec4fcbca9cef4ab097c2dd85db84158f8f7826f05aaa88eba9472d1ba",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A1JK75",
+    "sequence_sha256": "728355bfbd3b3ed8728a423150fb61ac44ce864a629baa22b0f809640062d25f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1Y7A6",
+    "sequence_sha256": "1a69d7245a4aa997aa3eb2f7fe99e65984ae5aa0d57aee9942a68570b791fc17",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9S4S5",
+    "sequence_sha256": "3b32de5cd40724cb8cfd389a396f95641cacd5c4bcd77a1a97889adcbf11dbfb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7T9XU28",
+    "sequence_sha256": "60c0bfea43680efc6db88de4d76076fe2ba3229908374d9894c9aa32f3824855",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4GEA5",
+    "sequence_sha256": "07142cfd7f647a12ce015b3e730f025d182f0e51103f7af90329bca74fccacbe",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U0ASF4",
+    "sequence_sha256": "efebc78370236bc404ad8378c7dc0fb86beeee0f92187bd6db07abf773814c18",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A1JMQ3",
+    "sequence_sha256": "ea2057c5cd4026ef02f75573544206ab902c197e76c5bfe688b9f71efd811e58",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1Y442",
+    "sequence_sha256": "23ae57efd5794281ef11187eff3862814e04cd097d206f4d46af99a98bf13443",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T7PAJ5",
+    "sequence_sha256": "9c1c3900f5a680c1725ff4ef6d95b7f3e9b0d9519906003e462275b34c39ee89",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1V089",
+    "sequence_sha256": "a4965510ad94a2304d43d026a0daccc6de743d9c4be7dad79a510bc73c318ec8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5EYN4",
+    "sequence_sha256": "a9fd678dd943a29400f016d7dd5a028c24646d564ba2607ff1656fa4a92a32f2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5GK90",
+    "sequence_sha256": "c8203f48ca7153076d11ddd84f0e90d87e0f97e72dba13a41fb7982b5a8d3b20",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1PUD9",
+    "sequence_sha256": "55bf771105c0c240307dbf15a14f2405126174351e4858dc5d80041dfe6ecfc8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4K0Q6",
+    "sequence_sha256": "e57c42f4de26e2c57706e13ab6105d2a9c665cf31d2f0a75b1a19bc53bf4ba0a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5H5L7",
+    "sequence_sha256": "7e77951bda97f846408cb8d521481eb5d4560541d324dcfbb8bab9c7768ba8c7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "S5M3A2",
+    "sequence_sha256": "3edcc09bde452919f1a1428e7f67dea78a2132b966e638edf463ae1891b55ff9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1PW91",
+    "sequence_sha256": "e1ad99bad3db4a0a2504c9fb6f4bf717adc7ade4bdddcaab012352a992e691ba",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9SIJ1",
+    "sequence_sha256": "087d125732845082d1ff1587d0bf1ef27cff5a700ad6f9bba9e95de74e62ad93",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U0AT10",
+    "sequence_sha256": "b3dafb77790f962697d015bf137c7c8871918fa7b02cebcb99f0ae47cd7defe9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U0AVA4",
+    "sequence_sha256": "d966f80f514fcd70984012562bfb0b876fb83ca9c25924ef4337f7f01af47564",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1PWI0",
+    "sequence_sha256": "10fc887f4d6f27830ea87adb683f2a34590afb6b97d9c2f2b991e848b05f89d8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A1JND9",
+    "sequence_sha256": "1c668d2f902f63479a8cd6e6a19fc9a3e4de703d42998fc76e0d17a0791ee323",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T7PAK2",
+    "sequence_sha256": "20b925a1000d8da8420d361d13fdd5c95fe8209e030a5b55b990a2f8f698f3fd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U0AWS6",
+    "sequence_sha256": "4674c666418e50d0eec762df3e95faeb6221f9454ce931b72599ffc83177810e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YED8",
+    "sequence_sha256": "2ac6211a10867d5f4f905aa8aa8cbfbb7f4bc5ea94fca2f896b5013b487e48d9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1V3L8",
+    "sequence_sha256": "a144755a2edf10b017cf26e436e55ac3847927592edd84acef73291d7b969d63",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1PV32",
+    "sequence_sha256": "184da48e6e99fe53dc88bdf331f7500ebd3795aaa90a1f53880c66eaf571aaee",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A449C694",
+    "sequence_sha256": "3edcc09bde452919f1a1428e7f67dea78a2132b966e638edf463ae1891b55ff9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A7U4K153",
+    "sequence_sha256": "973e44823c47b02f99cc2e8a7bd5c4a04ad62cc20043bbf78d81fed2bc6922ca",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2H1X986",
+    "sequence_sha256": "d4ae2b2bf8d1578d1ba198657f5d83dd344df5c251d8dd0f528a1ffc4372ae9d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5H701",
+    "sequence_sha256": "06c8b36a9740278f273c8a8ba886c05a576e11aa5e04815ba6bfde5205dcc5fc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YGH5",
+    "sequence_sha256": "76cbd4cfa7dc3243feda733a81d9e5032b94c0ac8af78858f98b2e807cd96b93",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1UYL2",
+    "sequence_sha256": "ccbbda5db9aa1df62254221100ac960f737dfe5672aab230b372201f7613b2d0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAD2Z3Y9",
+    "sequence_sha256": "491684bf04f6196f659f611da692c3c4d50eb8a0276405d8132c9950aaa22aa8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5HA66",
+    "sequence_sha256": "89e3edab78f5219cd60827760ba96dbadd193fc7383aab82e468c4661bda0c3f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9PR46",
+    "sequence_sha256": "471dedcb26b7d7f65dc8fc517ee528b3fc3dbf6866b873f2b1db4c843c3feccb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9S4S8",
+    "sequence_sha256": "6e01244c6cec4d263243b14dc7573dfd6b8bfb776d6392b60c5e4bc2ad1d883e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1PT68",
+    "sequence_sha256": "f906cf8013543ccbe5e764bf9bed6c10457504f948e632d61556b3673c775c6b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A9P1V1H6",
+    "sequence_sha256": "0c33c978bbc9b2fef08311d10b0392be0bba92a49642b9faaabbf1fdeed1f324",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A857F0P1",
+    "sequence_sha256": "d38c110ec22313919159a2047c32aa06c3d74b3419becdfa40776da35b6cac9b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "F4N727",
+    "sequence_sha256": "a1e50c9bfabade55ea9df0add1d33124f23b0d5923921313fd3ac4e69e0ced87",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73QMA1",
+    "sequence_sha256": "13ec48082525ecd11e50c2168da4c1e88fe6949ff3695fc46a25821b82ca95c2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAD2Z8P4",
+    "sequence_sha256": "4b13ee49a0edfc956bd802bf30a7f03f36b8be63627aed8577c24bcf9fbea9f4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5LRI9",
+    "sequence_sha256": "22c4dcac3d3484c6919966f04d5c7bb2ee58653cc9a710fd607ea687dea76aa9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0B4ZZ77",
+    "sequence_sha256": "ab51a4842cc61c9e92312176b679e2508f3fc94ee196f65829844d9d99062c25",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAD2UW21",
+    "sequence_sha256": "fcad575963c34745872f1cee7f8af53ac1ff96a1a0100efbcee8908a2af477c1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5H5S7",
+    "sequence_sha256": "7de38cfea95a20f059ea4d97d337e362054da0ecd3181a35cdb82d4ea8d95d23",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9Q3J3",
+    "sequence_sha256": "9fa1adfe9a9f2618e2d2e13dc41ca0c292bb998a9899d7e56a88a51e29fe8771",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9PX62",
+    "sequence_sha256": "4a1a01751cb5354987ffe2502e01237e97ba1281e76fcd2a79809d08df225007",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAW7K9U6",
+    "sequence_sha256": "4f29e6d10fc700d20e1b1423e99427bbf92075b168e6f331d9ef1fa923680399",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B5E1",
+    "sequence_sha256": "3ca2fef8a1cb98c55f9cfbcebe33b80f42d9ab6cd05c010c68373534fc19fa8e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QCI9",
+    "sequence_sha256": "fb3b127a06e653dcd682c4f683d70634289c0c81e93c0f61af281ac16543b1bb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX5QXK4",
+    "sequence_sha256": "721298d8f0dbab22c374a2480c371f76b6e10c7b1f0025c95a0f24c47fbeb5f5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RET2",
+    "sequence_sha256": "d885d30de1e8d65bc2790b5417a21e9b717bee9f77a5d56d8f59f77c787d98d2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAD2Z3C0",
+    "sequence_sha256": "06950f0b6b4875cdacd5c8b74319d23cf505172d40e2d5d6ffb2fe4f04fb944e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9Y807",
+    "sequence_sha256": "934645c701247bf1c36b41cc0ab17392256a866678771642ce5686f1f1cd0389",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAV3BI89",
+    "sequence_sha256": "793cf56b794121107ff6565589ddfc6d12e57c80859d0a5b9624f4bce87281a8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9SSL7",
+    "sequence_sha256": "623135830f172289e9549a1d9cc812ddfde416c27192b41efc5cb24a52fb9354",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9TCZ7",
+    "sequence_sha256": "1fb918f72248e56ab894da6dc308186cda352b1ea05f10471c9b870310679171",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B6N5",
+    "sequence_sha256": "1a726b8cbd744b00e9668990ebb2b5609af3a079686420e7e1b5bae3a3ad082b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LLT8",
+    "sequence_sha256": "588f32e9102f81cdad8e8d8a7a6b1d60620f74cc90784e46c22d9171e6542e93",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UVK0",
+    "sequence_sha256": "de1eba062f8083b96f29f30610b95c731606f94ec5d59a2b29afb3952177c22b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KM81",
+    "sequence_sha256": "1367c34ab8fd44c0e2bea696d71361c45575ef3150dd5c503eaaf9ed4fb4c8fa",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9Y805",
+    "sequence_sha256": "72fa02e1e72b0daf0875e647cdcadb6c8a26ec8e142c2eaaf16edeef6e31753b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73PI84",
+    "sequence_sha256": "5d4a04476f16a090a88b4a85bf0f43c7c82dbc23199fcb09719a80bcd36f9341",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0E1NTH1",
+    "sequence_sha256": "793cf56b794121107ff6565589ddfc6d12e57c80859d0a5b9624f4bce87281a8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABW9EXB2",
+    "sequence_sha256": "9b29e70a3eab38a7d00f2650e0a8cdc30f4bd236e6e1bface861ef3f56a3c5e1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB72ZKZ2",
+    "sequence_sha256": "793cf56b794121107ff6565589ddfc6d12e57c80859d0a5b9624f4bce87281a8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KX64",
+    "sequence_sha256": "d238ae0626ae21dcda667e33f3c30ab09399b3d15584cb254c3f970dc1289cdc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q66BM0",
+    "sequence_sha256": "0c225502b8064123b5c1e4564b06665aa3cfaf4a1614839004dc8d2f551ecf89",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAI8ZUU9",
+    "sequence_sha256": "acac72d2bf6ab94d8b755921826f34f22b4a3ed5edd774a1d1f23b3c9a1245a4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6UUX5",
+    "sequence_sha256": "afb043f418ea074f4ff64b0d640f442c39b8d97aa916ac85af1aa48d219562fc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP2EH72",
+    "sequence_sha256": "cdf55e4aef43c8e55a22de2064f552396d30968a3d59583958e3f8b94c54de50",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0A8VKM3",
+    "sequence_sha256": "56f295f5a747628a575b7904a98d3d886d7ec836a5d9179801f9226f61460f31",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LPU1",
+    "sequence_sha256": "160a323d422eb48bad2f7527f7a4fe5b6f8689fb68cf5c8325eff2a5a295eb2e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9LS41",
+    "sequence_sha256": "2a5df772af38ef5508bd7d2337746ebc903bae73e9c0a4589c4c8208d5025327",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B6E3",
+    "sequence_sha256": "5352e8d4c1c0d46beb9f2679bf19d682388f73bb3ad66b1a17acd0e40e91d706",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB72ZMY1",
+    "sequence_sha256": "845c4a756f316b288f531311a6cb134d676b9e18ca3dd0d57952c762501902dc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9MH64",
+    "sequence_sha256": "95026d83b088e1115aa7403e332f028962c864449278ec9ff6ae3dc3511ddece",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2G4U2G2",
+    "sequence_sha256": "a2149e62633d542163ace1dbc6c202026ba4924da90887090798f41bc79eabb5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX5R0C5",
+    "sequence_sha256": "e5bf08d71a5897e7732d5dd672c47d3ae681754a9452d7405e54ac1a0178d457",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9XWV8",
+    "sequence_sha256": "87c3b50359595bd56b81585f47552bd75f63f34fe01f432d4c63827be11a5a6d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM7AH44",
+    "sequence_sha256": "2f42b9dbea35f69b4a9591363691353941c662e3bc7c07ad7999851a79d947b3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PQB1",
+    "sequence_sha256": "f7bce578dcb271744dbdcf44f6952cf0a80bd03ec991c8a29bbd5dc0e2d73dae",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABY5UJG2",
+    "sequence_sha256": "9a07e2fbc6cc8fb5dd38d2cc98018e52f0ed845292f89a0e2c5592d96188a24e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B4K0",
+    "sequence_sha256": "ec12e18d35db05a873c2d3ff2f155deb410837a7ba180e63d3cfa563aeed2add",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LNC6",
+    "sequence_sha256": "49836e31149770fad7d4f61ef9cd19e8c787d04a53a9dab82da7f1e55ac975ff",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9TRC6",
+    "sequence_sha256": "a8de82797535bfec6dd6beb761f27e5ef00a27618ec5b20871959a5e3d2472a6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B3D7",
+    "sequence_sha256": "ed8fb4817c8665426fd08d1b2210a02b41f58989b09b6e3d8235046bf09b68d8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PNY7",
+    "sequence_sha256": "e62839b7cc06390b37ba1d649a09e462e091cb2e01a2932476e5fd9c8f59e3e0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6UP52",
+    "sequence_sha256": "e96dab83bdacfc4e0e75c09bc90a24eb6d46dfd747b337e28b5fe7412c06f066",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PNE2",
+    "sequence_sha256": "d99e2fd901408babb9f3b4fc9988d34c2fc178dbc1460cc57e0dd2cadba75fb5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9TDA6",
+    "sequence_sha256": "a5b643f828b6ab937b89dedaf173584ac5cad4b577c82f8716b5d328e29f6a49",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9TCS0",
+    "sequence_sha256": "bc4e5cb0a05321780812ec51f691770b658a0ad21b28dcb68b6f8815512c2d83",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5M9D5",
+    "sequence_sha256": "45392d354028236cae8d0980e5697067da9ab1007935f1edde1a4001928b5155",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A085U5Z0",
+    "sequence_sha256": "2bd70219a5a2a0ad301f701b02fa3752788de96a972d5a242add70e7a8fb5201",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAV3B8C3",
+    "sequence_sha256": "c0d950601293d46fba1ca1c8060dfef6dc89e0bc9bc432e5f753a73755a04dd1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QDU9",
+    "sequence_sha256": "38435485212bf4d97fee01d915861a58f28fc0b8d26c3e794883765d68c2e779",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A1JQS5",
+    "sequence_sha256": "36487cd3df6d8c401f8cd1065e670bbbd821c7900f198fc2647ddeaac4ca42ec",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABW9EYQ1",
+    "sequence_sha256": "67987fb43fd3035b4cf4f22ad96931a78819ef47f104efdffa2ebbf2e3554092",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX2I043",
+    "sequence_sha256": "5352e8d4c1c0d46beb9f2679bf19d682388f73bb3ad66b1a17acd0e40e91d706",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A208ZSG0",
+    "sequence_sha256": "6f81c05be48164130da79eb50cb12e8247d68251a9ce6791f6be2164662e97e9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA90Y526",
+    "sequence_sha256": "ee6539157896712360aa01afadc3e4e8f90a8ddcfc3f62a89f102b1b7af3e818",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380QTF7",
+    "sequence_sha256": "a67aa007d412348bf4421ddf89510151d73520f0520d7424a9a2ae5777034a8b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A085U317",
+    "sequence_sha256": "927d6cf9b8fe635a11408d39a64b5adc39769a55ca213d217f4e81715c8b0c80",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2U2GXH7",
+    "sequence_sha256": "793cf56b794121107ff6565589ddfc6d12e57c80859d0a5b9624f4bce87281a8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABR4W9H6",
+    "sequence_sha256": "d99e2fd901408babb9f3b4fc9988d34c2fc178dbc1460cc57e0dd2cadba75fb5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB72ZDV0",
+    "sequence_sha256": "b55c6cc1fab21095d61b74d5c9bbca98fa7fbaa85856d600938108517eb6b3fd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABR4VWS1",
+    "sequence_sha256": "eda9d29ff13b504b8f2339e8199e037dc7cd9856c188a151424dcca3a5abc87c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73Q5K2",
+    "sequence_sha256": "ad709e24580d3433a8715ff7cb7ded77dc5347ac5f0b20b9b3c1181d55cfd405",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UHA7",
+    "sequence_sha256": "40e84ccb987083038c20e59f5e1008279a7e72d2e1859fdd15fd4c301453a9e9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U1R2N4",
+    "sequence_sha256": "7986e93daef453c36e969778934165909ad8a364f023d8348e4b43777b31fbb3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PNP9",
+    "sequence_sha256": "eda9d29ff13b504b8f2339e8199e037dc7cd9856c188a151424dcca3a5abc87c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QV26",
+    "sequence_sha256": "a1eb1b67a6a1c6bedf44fa25bb3e9c233b97c84941059aaf00270fe24ad8dbe9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9XUV6",
+    "sequence_sha256": "2be889ffa54b4e37de2189f853a9fbaaab5237efc4e7c56ba629bc2fa6ceef16",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9PYB4",
+    "sequence_sha256": "dc8a6c10fa7e17b49302411287611a601ec1189dc6d4f93b9d6f931e160fbf86",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6BHQ6",
+    "sequence_sha256": "da4b9250928a6e29a0c6b515ba51d0eefe7f047d83d1cee2a87f074967e6e914",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B678",
+    "sequence_sha256": "502c5ea020e08cd8bb1eca62d750bf0aa9eb12633455c83d77b677ad94ee49ef",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U1QVC6",
+    "sequence_sha256": "c86f6fb4c396d96b217b5c24d0a82d4564e869f70cbb8c217999fff366c517a2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA90XZS1",
+    "sequence_sha256": "bed2aea8d9faf3b55589f330057c8cbbdc3c1d6614b561a4402263bb3ed674b5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B1B9",
+    "sequence_sha256": "22eaed67249d190a4994191e077ca05c6c9fb03e63a5f02a80e3f5df7a8e69b4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73Q656",
+    "sequence_sha256": "43ecbd97ec6556336aa60e38e3af24af2e8bd42e7f92305bc678415a82994608",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A209A9L1",
+    "sequence_sha256": "1ca2d977dd993bb0363b424275beb350402e2354ebf51934eedb898f002e3d34",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5UHV5",
+    "sequence_sha256": "155f0062a1c76cfcaea266a8af4131b8b789981fd78e44dbfd39262ed8e5bff1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB72ZL33",
+    "sequence_sha256": "5352e8d4c1c0d46beb9f2679bf19d682388f73bb3ad66b1a17acd0e40e91d706",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2G4TYK3",
+    "sequence_sha256": "68f88c6dc6432b97e478c0e45eb8e76550c25964f5a8710252292ac418b8cb49",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABR4W5R8",
+    "sequence_sha256": "7c5a01699170889980b9ac84e1466b5f96f4e1530e56cd7daac514ca274cd236",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0A8VDN9",
+    "sequence_sha256": "d480ba52f7cd806f7a45ab38cd67dadeebc2e172082d02e187b59201175677ed",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAI8ZVG7",
+    "sequence_sha256": "3f3f37bf45809123705609882b29e8d1b550c4b86bdc7054f5916abc8700b36b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5MHG7",
+    "sequence_sha256": "2745fd5bba2ca1b94d63568f815f8e67e3f343e0a97663bd13d6bd564e7166fc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX2I0L3",
+    "sequence_sha256": "c86f6fb4c396d96b217b5c24d0a82d4564e869f70cbb8c217999fff366c517a2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36PIC1",
+    "sequence_sha256": "056a6ae1cad754d3d23f5702451addf7e0dfd2f8679d714dd15ca8a967fce6cc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAV3BAT5",
+    "sequence_sha256": "f6886feaac052d8cca17c7534bee72bf81e64041896aff81057bf173daad499f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6UW81",
+    "sequence_sha256": "dfc29a7db7bd5d0a3d8739a3687d3a752fb090a2252cc58501d335d87d3fe9ad",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX5R0V5",
+    "sequence_sha256": "bfac71cb71d1741d31d1f8e2f44e9a18cadba355f29abe6e8457b527c47d6878",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9MSU1",
+    "sequence_sha256": "5021f397a1c12b94c007a4640243ea39371772e381c276b9c815fd8abe52f317",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1Z8F7",
+    "sequence_sha256": "2f42b9dbea35f69b4a9591363691353941c662e3bc7c07ad7999851a79d947b3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73QHN9",
+    "sequence_sha256": "1a0b4a7f98c987fe00190ac25ccc88b7affb6ce0be23593ee980cac9c5bc3d0b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73NKW1",
+    "sequence_sha256": "a9f99a3b5a10e07ba7a674105db059e1b1c566017a060dd09c983b680b366ce5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAV3B8C2",
+    "sequence_sha256": "1bfa78d7f6db324dd179c6f4e35a6de9dcfc099e7d657d894d46dc1f4b50e456",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73PP81",
+    "sequence_sha256": "0f1fe31d7d17ce076ca3274af501a944d3503e230f83d5e3e418b1777af58861",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9LN66",
+    "sequence_sha256": "cb38511f9c9dfb1353debf78ba39096af8240839a378009a5a09217293f8b8b6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM7AGN3",
+    "sequence_sha256": "c5cb63393d33845827383c93858ed9960f07cab28413763e9c2422a6a7f3d886",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5U8M7",
+    "sequence_sha256": "112d70407848501e388a3c81d6c564adc888feb2b121aa9891de312e5ee7a16a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4CNM4",
+    "sequence_sha256": "9b4c37c23b62db995e5f930e83aa5855cafb2657d0b3416a0500f1129590af16",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RQ76",
+    "sequence_sha256": "56beb79c3bfd812b3adf498dfcc9c5e22fc341cf03daee0079969d199f23d6b1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX6FH78",
+    "sequence_sha256": "e557958f660b6822babe0b50ac97eb124e5c5975268ca2a3bfdccb511cff848c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PNA2",
+    "sequence_sha256": "7c5a01699170889980b9ac84e1466b5f96f4e1530e56cd7daac514ca274cd236",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44I1R7",
+    "sequence_sha256": "8488363a730cebe23030fa878c12a59b3a864f68621703d61227d0cb930cf152",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP2DZT0",
+    "sequence_sha256": "28a40bf80c1a3f8c0024f1340da5c38a06dc53f18ea177a3d48279a2905e9d51",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABY5UX71",
+    "sequence_sha256": "2509ed2efd55d37dec0d0590d5cbcfc44af2b36543b77c6c1fb30df514b8720a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73QFS4",
+    "sequence_sha256": "69e09739499cdd2c920702a72e6b5f4591ac7028776ca80f4ca86875c27fc3bd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PUT3",
+    "sequence_sha256": "ad9113e01b555da7e3b2b2cdc844091ffa678d4003e6b84986c588e1fa0dc0d7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A085U7Z9",
+    "sequence_sha256": "2e859fcf26ff65008b9e2453b5f1cad195b02ef9c7fb5da3df41dbc8ecd61e8a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A208ZSG3",
+    "sequence_sha256": "84766fb4833d50a6b61c2485b4b5b8814f999124bb541ae24d04aab462ccb3b9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9TGV0",
+    "sequence_sha256": "3e941bcdd145a669efb68e70ea5690107dfa739e03a7b5d85ba91916ca030746",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44CPT5",
+    "sequence_sha256": "25ee144667aa355736c5cb4bfd1e06fe16bb04b04f42cfc1a950ac78c6090bfb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KLV1",
+    "sequence_sha256": "33f818d38dd2199462838cb0e3f8caf0f8691d61602536269e498da4d131d4ac",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABW9ETP4",
+    "sequence_sha256": "b045c6ecbf319c813db5af25edd20b1791918db165c71648d40cebfeb73f8660",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0E1NNL7",
+    "sequence_sha256": "104163298f84d6904b2efad647078a6878880739ca35ce0a3d2d77cde279971f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U1QWC7",
+    "sequence_sha256": "e80691ba9ed4ad28d1098be9727b6997bfdb949b1cbe848b4991649c40d1720e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9STX9",
+    "sequence_sha256": "ef3382b4570f5f99e21b855496e47c93ef89a94d360cc5fb2110367c236a95c6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380QTH7",
+    "sequence_sha256": "742bf0c525fb9061753c1f96d11ddd3493d18ae2776c7cab5f6dac8e62c29c14",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6UUN8",
+    "sequence_sha256": "5bba6e6a9aa3eb41c33a9d5487e09e80c5749732d76a4b5cad6b45a76692d9f0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2G4U293",
+    "sequence_sha256": "5f9dd48a89a50054ddf3420fff63aa84f3c15f6e689ae7a6543da8e3a8fd1a40",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5SR09",
+    "sequence_sha256": "640c1676d03d1bb2ceecadc9b7b900748493a3da3df80728e5c01a6a8d077ab3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q666T9",
+    "sequence_sha256": "6bf90aed0f15f35c4eb0ad1fe0e99685daf79b7dc1faf729454dfc12c9a7e88a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QEA5",
+    "sequence_sha256": "366f2cb8566b6206447cff9dbca263b7de7558240ba4c0484e689a88c4f73434",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44CIX0",
+    "sequence_sha256": "10f845429ea138a019682d7399bbd00f083653ed775f520c8c3c633320c25654",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM7ANK9",
+    "sequence_sha256": "84d3f963eb0fec0848822a182db2dc901bb44bca83c738e848d3b5a143eb4271",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABR4VY47",
+    "sequence_sha256": "ca3cfc3ace609af21661f749a78f43f25af81630c8cf904b3afaf0ca239300e4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H2W1J5",
+    "sequence_sha256": "c86f6fb4c396d96b217b5c24d0a82d4564e869f70cbb8c217999fff366c517a2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73PZQ4",
+    "sequence_sha256": "17e00135b2e873b362d7982c7be574d65ab62048dbbfe58cff3d005091b5f007",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YSK3",
+    "sequence_sha256": "c5d250214927e93c40e2c5470762a7b15052ebf428769c0acb8da1e7757c248a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAW7JSQ1",
+    "sequence_sha256": "f8e7884f9ae459265b2e0f907e264d4cab5a79a84b1a3467fbead4951362529b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9YBE2",
+    "sequence_sha256": "5553363545b0fa72540ab1d654600eaeb06223d576d67b123d46400c4d2ed7e1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9TGR4",
+    "sequence_sha256": "90a95566a4b2aae3edfa7f7f3b18a519acbabcbedd5244d124d29456eb09cae1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABY5UV58",
+    "sequence_sha256": "63bdff8b21789872bee9668535334e527470ed135a4fbc9e510cc7a83fd87057",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1ZGZ5",
+    "sequence_sha256": "998cd1746a5e194a0fafbf11254d4de7323e4d782162649fd23d6eacd985b7b7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H2YKF3",
+    "sequence_sha256": "c86f6fb4c396d96b217b5c24d0a82d4564e869f70cbb8c217999fff366c517a2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44CIM3",
+    "sequence_sha256": "1bf2b2e69177b23ce7ed35a94c82f598d718f99352ba082269cea3ab6c55d1c9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q66BC8",
+    "sequence_sha256": "e456f48a26eed94e65ad35ab9902415c9a26a4fa5450747f7c60a43c0260401a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9SZ95",
+    "sequence_sha256": "4cb21112326cd967baac3314281c54a3a3175a2f6f440343554e31a1f02f2708",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LM82",
+    "sequence_sha256": "587468ac06f2791eab8fe4bd9f18035aec9ce5414158656ee34fcc3bb384f3a4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73PEI7",
+    "sequence_sha256": "318a8789bbacc876b7405b7dc234db1cba0a6eb87b98e1074c948716cd246ca2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PP39",
+    "sequence_sha256": "55a33aa3cd87c597f4b3f2d72aa3ea76f9d4cfcd1b1f32b80a657115b7ca53cd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RKA1",
+    "sequence_sha256": "97b85d47d7620c43b0ad7ff93621d88b6ff7e31cd610a95ef5852c95428cbcbd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B6E0",
+    "sequence_sha256": "adf550d27fb5a336186d50995ad317ae05020747ad9a6d9d2b84dc652ab9791d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5U8N2",
+    "sequence_sha256": "b44072b5049527efb5b734557e98524952856d9e42fea65d86750ab4c847dbf5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABW9EWX0",
+    "sequence_sha256": "eaed7c8e14dfd0eecf64266388120cec5fb9e90619c0232c9e1b2e5c16cf1685",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1Y7W3",
+    "sequence_sha256": "c96164cd6d18c26cfd016b701f35fd7b3ca1010d8818ca1aa50ae0e9192c7ed2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4PWA2",
+    "sequence_sha256": "f259ff51f273c4356748e9bf555c4de56e429aebfe9df545e789ca846a4f5392",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5UH14",
+    "sequence_sha256": "28cd1465a10ce8fd56e3cb44fc918c04f838ea14e8ad11e7dbf00ed20215c3e9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KKA0",
+    "sequence_sha256": "86e2948f5a45b6ce6c806cf17c4995899ac87e6cf9ea79b454390fd154b4eae3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q66CW5",
+    "sequence_sha256": "be540ceb7b18c4cc833906aa6c575a7636d579315222c936c39b6cd799bdc40b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380Q814",
+    "sequence_sha256": "84da621f232c4fe4d2fd118f013cd61c2f0eb7e50da2582ae9ed40470706176a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0E1NX19",
+    "sequence_sha256": "b2f3ba8bd648714615a04e6363dbe12abeb9543f7b6b2a878e93c4b55f9312c4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9Y7R4",
+    "sequence_sha256": "a6a7be03db7211248df4138db879614a5628aeeae98391f3473206c4600c90c5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4PV81",
+    "sequence_sha256": "069a7f67ce4191e6d3d4ce66684ffe369add6e6481822e1f8c539ec90008b498",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM7ALJ4",
+    "sequence_sha256": "821a06eff499369eb5d5ef8bee4c67bffc1c99252e106cfbaf4d5b867c2006f9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A857EWU7",
+    "sequence_sha256": "3d6974697dd8ed67fcfef6c5511fe1dd058686edcec311226dceae0c8b4940fd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UMM8",
+    "sequence_sha256": "99ecff5027a5953b329429907760d77751bc30d9dc303e4d904268dc1f4db5e7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0A8VIE2",
+    "sequence_sha256": "17afcf91682f228b97cd6c3e37327772378e5aeac4c54c0248ca1f6e4b806634",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YWJ1",
+    "sequence_sha256": "ada7e517b25e06360e862f37b861a19d559f6855061e8c9ba3a95ef52979995f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3AWU3",
+    "sequence_sha256": "a41d96045dfa1a313edd33c094a6c9f3d422635a70383377ca38c8facece25b6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA90XTP7",
+    "sequence_sha256": "25bad88b8bd4e7756d71c2f7f4da3c55e72d9f3e8014280f6c8386a320baefe0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABR4W506",
+    "sequence_sha256": "26b3f589ace3367335065927a50ebc172e1b7afbe5c8c1238441999d9d04f213",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KYN8",
+    "sequence_sha256": "e9f7700d254d670d9261aff03fb26d2cd71b4c5b5686e346e5039133bcbd602c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0E1NTB1",
+    "sequence_sha256": "5352e8d4c1c0d46beb9f2679bf19d682388f73bb3ad66b1a17acd0e40e91d706",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAW7JU40",
+    "sequence_sha256": "cfc3e72838312f752e389bce7519c89f8d72dc8b52dede61b70e2b76a01a922d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5U8P4",
+    "sequence_sha256": "d33336044b70bb97035ca0de5ba69897fc0f9ca7a2bf6744e205234f8bdc15f7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9TMK5",
+    "sequence_sha256": "ac49c53d83dc1c119ab65bbae07ab0fa41beee94bbf260cebe7f4262b3903b9a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LQN9",
+    "sequence_sha256": "40de5080edd5b95216699183c19fa47e68f55190c895f3e6530c757fa328c1c2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABR4W522",
+    "sequence_sha256": "41dfa0d4286831826760e08a0dac2681a761be220768d2d22bf70223cdfedc84",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73P4D7",
+    "sequence_sha256": "0723f6623aab92917f1035307274d34cf458965b2abb744a3cf877c0243e421c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380Q9X7",
+    "sequence_sha256": "353352f1d71ceb0f1159cb2b3b80edfe8d3a11c2e744017f553890a23c5d12b4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAW7K6S3",
+    "sequence_sha256": "4fa00e0b8b7d25c98077a1636a10fa0d2c9497e3ea7b266ea630919b3366980f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9PX89",
+    "sequence_sha256": "077064e4a6a1e936737eab9b6353862234dbce5bb1c64dfc75da9c7b1102ed6b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9LN06",
+    "sequence_sha256": "5e645a1018b43abec0f751fe3ab01437ba5dd85ab9627a44379bea8e01b368f6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KYN4",
+    "sequence_sha256": "480289376630020f884fea93d98a6202f48bc2e5649b678e3ec065d4c5c66791",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9TUX3",
+    "sequence_sha256": "99ee44b62b7919a13f7971a2854abf232a6bbe918ec5b5c073cb8c1ce0787b27",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44CIL6",
+    "sequence_sha256": "141e742eef8639eb204a05a88c9ba2aa7dc3d378dcc733ea501eb2b11750a135",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U1QX07",
+    "sequence_sha256": "319c90993483e8b0a5e13d08c8bfb492d6bf876c422428f0a0c2a4bd0020f92f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380Q7B5",
+    "sequence_sha256": "3cf2bf0d724a14efbf9332802237db8187dde3f6da395b98754d230ab1539af5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A208ZGJ0",
+    "sequence_sha256": "7d7c1618e4200f760fd63459ad4487eb70f4c00bc32370f96c40ebcb82494a9a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9LN23",
+    "sequence_sha256": "de2956af35441bd0942e88049664f37feeea4ad5cd95f4f1d80f907a8855e1dc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6UP56",
+    "sequence_sha256": "add0fa8695585e0076ede71bf348dcd2dc4c952cb3860d12e6ce43c8fdf6777d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QDA1",
+    "sequence_sha256": "6f0ad8e91b5c50f83cbfde0f42259fa41906255cfbd7033c226bc6c94d33a26a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q666U1",
+    "sequence_sha256": "a044a981b7a940d479ab0356fb4bee092b017adc5d140df8d92b484be63a1279",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM7ANU6",
+    "sequence_sha256": "be540ceb7b18c4cc833906aa6c575a7636d579315222c936c39b6cd799bdc40b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAV3BFB4",
+    "sequence_sha256": "104163298f84d6904b2efad647078a6878880739ca35ce0a3d2d77cde279971f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44I1K4",
+    "sequence_sha256": "5cfe0760dbfea2f346b5031548b66dfb2e2f6fb2e067f5032015a83fdac277f3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73Q1P8",
+    "sequence_sha256": "efd3cea1d822bd923bee8ff989c85955d7abf578c981558521d123a19da54046",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H2YL52",
+    "sequence_sha256": "5352e8d4c1c0d46beb9f2679bf19d682388f73bb3ad66b1a17acd0e40e91d706",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QE48",
+    "sequence_sha256": "edc258cbcff1d7d1cab44b5842076564a53d586e1dbf3c2c22b41b98c7b7ab68",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q66CW9",
+    "sequence_sha256": "0d84aebd365ec00ef50c0add085093a115b56458376a0c564670869afa7dfc7d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6UNY3",
+    "sequence_sha256": "b680b4af38309d3db9dae3ea05a3049d49407ce2d5ae872cbbe4141526f37530",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX5R0U9",
+    "sequence_sha256": "9d72dcf67558da8b191d3db9b84900c3b08d038f94a8a3df7b5f3bd29a94b672",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3AYM7",
+    "sequence_sha256": "4530010892669ca4e7859e2c21bf60a21061ee38c6dd741abf36202bbaebd72a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UM98",
+    "sequence_sha256": "644bba8bdf582f49be0ebf64c20d426f1a08bd2853646a225b6bb8dab95b0175",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABR4W6F7",
+    "sequence_sha256": "55a33aa3cd87c597f4b3f2d72aa3ea76f9d4cfcd1b1f32b80a657115b7ca53cd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H2Y6N9",
+    "sequence_sha256": "c86f6fb4c396d96b217b5c24d0a82d4564e869f70cbb8c217999fff366c517a2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44CKU4",
+    "sequence_sha256": "219d8896d8255f9b41aac9044a71dc5c82d6c2964f3151ea79241e8cf9f57f3b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABW9EXU6",
+    "sequence_sha256": "3f2a5e7cda6f50a496cf811ba8c2195960f2ebfd2345849b6a1e5931d4a8f154",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B0A7",
+    "sequence_sha256": "63e31ad4f38caa4256fb21b2ffa100413066acbc931fc0bc69916800b354ea46",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q66BF1",
+    "sequence_sha256": "0cea6e80cb60bc8c10e31e8beea4329ae495f7589b411b827d0018638be13fd8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73NKK6",
+    "sequence_sha256": "0bca72bddb2dfe62e41265fdb758e37716a03c9edb82ece955d898f4142f65ed",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6UX29",
+    "sequence_sha256": "542da8a43376ed9bd031d04e7c7dfe51e55edffacb15a72bc009a10081f76029",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380Q8N6",
+    "sequence_sha256": "ef697f9bf47d589ad7da9dd8e7767dab8829d7ba2105c85e373bda5d87382e0c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX6FD19",
+    "sequence_sha256": "7e1afee55ffa4756e50836836c80400db0c292ca2d85f1b3635d7d861968f80b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A857EWT6",
+    "sequence_sha256": "e7c296bb62e3f129024ede90c1f6e377f6cf4623bb1b765168a3e37f48fa0c04",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1ZEA7",
+    "sequence_sha256": "2441196853e80e5dee1dbae34dd0b5daba42716b2a5f2a331b21a70767b2390b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380Q4G1",
+    "sequence_sha256": "4b569e63ffd4623734d6a29033420c5270959658a0cd5116c6c255281fffe0e9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4FAB0",
+    "sequence_sha256": "25597bc1c1487b26a5e091c7aad8b4dc8eafd87370cf9e187ad936c743801c81",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q66BC4",
+    "sequence_sha256": "d0b77798aacc83b491341fe6e770e74dbe9b8f995a89c29860ab8816ad8a3cab",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABY5UJR0",
+    "sequence_sha256": "ba4322e19c1137b6e7969f621a5d630445f6f8e4f4f152f03f53e5c56eb39bac",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9LR98",
+    "sequence_sha256": "c89d499e75d5392c7aa9cc99102ce57b9716044177e1ce5dc5685be6a5c751ac",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX5QYD3",
+    "sequence_sha256": "4961b8275cdc6acde8725f85b5376797c9b6e904a3157cf60841312531ee473b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73NQS2",
+    "sequence_sha256": "6d3209f6b56081327e4d3beacc6a98a0e4d642e14bdc43fb87a4cd444de0ee87",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9N2B7",
+    "sequence_sha256": "ee8714342c3f87da14d572b0bb1ea742ab4f5c0bb052cf4ada3c1d7d3912a9c4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAI8ZTY6",
+    "sequence_sha256": "2c32cde19099abfe8bbddaf5871089e75521c0ceb0e2a064c67f9111fbac9151",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YVJ3",
+    "sequence_sha256": "3123edeeaf3e79e338dfc2d32d34531714292a034c6809e4003b14e0fdc9c183",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6UTV9",
+    "sequence_sha256": "1c5de3667f0a7c78036fab06229a519db9626229a270eb62555a283ebd3a2e86",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9Q3M1",
+    "sequence_sha256": "84cb52a7e3d59e9e5bfcf8c764d396d030e2ca96c6568f122a2aeef116c306be",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A857F2M2",
+    "sequence_sha256": "d8e2dcf6f02764960d9455e06a760ad9db79d1a235b0a3fa36374bc424c95f51",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q8D1M8",
+    "sequence_sha256": "6bca5b8f407c4e470b24dc893bb8c0fab18da3471dccf0b046131e0640fb1a36",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9PT88",
+    "sequence_sha256": "87e2bc28fb581b7ef7a3a6be9fd6b1c8d5cdf6a787b3f300d49cc7a268044c63",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KM71",
+    "sequence_sha256": "7ce5fb15c3f7b32439d2466d147de4a5f5471cae2ba8a2353c344d4638b7e884",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RK55",
+    "sequence_sha256": "be405e7509935a1ced612c3995f28514125c8214d1718fcf87e391efdff95848",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A5P8YE56",
+    "sequence_sha256": "104163298f84d6904b2efad647078a6878880739ca35ce0a3d2d77cde279971f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QGW8",
+    "sequence_sha256": "89b90f7acd2c7ca63433fe08308ea21666a944f29a7e8acb6b3e3323af977014",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1ZLC4",
+    "sequence_sha256": "1729ae9fa6ef78819423e36467dee1b957a04313b441ee660c3d902cc98a9e71",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QY81",
+    "sequence_sha256": "6bcdb12a21d4672c2cbc76f43e0c8d2971fd3e39d7255baceb5a0da9ea00aaf7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABR4W4S9",
+    "sequence_sha256": "2b8412a5d259d2ab0a8575f57beec4358765f07d87e4b7bf0cf9a20e69ca8d65",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5U8N9",
+    "sequence_sha256": "7c0512b7a7e6ea921732c2ef32caefbac53413da77dc7abc32e4aa7ef430cd8b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36PLD9",
+    "sequence_sha256": "fed2e1ccd1296911189ca25ac954e1e666698812e1485a73d61f6df4647c1d98",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX6F3U1",
+    "sequence_sha256": "da6da70659d06edc96a6d5165ae26025ce1cf045c3dfa254096efa37b6f67df2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H2W3V2",
+    "sequence_sha256": "bf078bdb0076810a17afac979b5261a207020916ad1623bf9b494098c792d152",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LNQ9",
+    "sequence_sha256": "edd6ee9962f729cd4f78301e228fb047f72881e31926e908ac5f79ae265656ff",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2G4U6E8",
+    "sequence_sha256": "f1b07f260b1c84aacbffa762e8b858b5baa6180260b447c6571232ea24eec5f0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4CUZ1",
+    "sequence_sha256": "d7f06e755f639de9a3fb4d93b5d90846a8125cfadd6a7fb0ca3660bb365804db",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABW9EZG0",
+    "sequence_sha256": "904d4c43fe189a57de6cb6e188390a3eacc8b5ca202074df7ca8a4944cef2c6c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U1QUW3",
+    "sequence_sha256": "be540ceb7b18c4cc833906aa6c575a7636d579315222c936c39b6cd799bdc40b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX6F9M0",
+    "sequence_sha256": "c3381ce42f1db56dc2b0f6d77317d33b4fa88d4bdf17a2f88930fea590f43838",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4F8Y2",
+    "sequence_sha256": "1673c34f75221b1d842a6debdfd1939af4f486d523e78c403821b953955e1ea0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA90XTS9",
+    "sequence_sha256": "974f033a1343071a778d22993401084762d22211ced8daad12042dd73affe8f7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44CL49",
+    "sequence_sha256": "6968ce1f115f91423e1e031d7468b20590c221892c56f8ecc72ef3d8752732e4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LIH7",
+    "sequence_sha256": "dd018217dc48ed418775df1c2a9add847900f4ba393818e8bb768cf3bd8197e0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KXM0",
+    "sequence_sha256": "faa0711a1ddb0f8dd659046c87d8ecab7d7b52d9b2c5b80f006b84246f893e0a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q66BN2",
+    "sequence_sha256": "e21599f461ae5ed70a2059a1db37f9f2c9277ae98e118d0e60b13ae357fa08cf",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9XUU0",
+    "sequence_sha256": "9ad2bda83ed8889bbb451721e506f8ca019f2e8a544afb3518c216e8fe756a79",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP2DXX8",
+    "sequence_sha256": "a2149e62633d542163ace1dbc6c202026ba4924da90887090798f41bc79eabb5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A208ZSF8",
+    "sequence_sha256": "dff80a6dcd82d09b9ca572acf2797424cdf14a4c4edb2ae78aa396c2c5921e73",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A208ZSS5",
+    "sequence_sha256": "f6163491e72a94eb9d6cf8ff7b16c5825985574c76ba4e91f08b476652a1de11",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PTJ1",
+    "sequence_sha256": "26b3f589ace3367335065927a50ebc172e1b7afbe5c8c1238441999d9d04f213",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LSX5",
+    "sequence_sha256": "da14469b23a450e077b0abaf69e917a241e25d0115a58f0f4cb0339ac61711e1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9PTD3",
+    "sequence_sha256": "21d03f0474df24853ac4d780ed8e16bc2418c07970a6e08a6fdc7faff4b7279d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6BHL4",
+    "sequence_sha256": "e52b942a64bee88584580c91cf434adee58f4b234e11997967c6b748824e09d8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36PL17",
+    "sequence_sha256": "c275f50d6bded1c65de2a704bfcec39b4b8b4866285292e4f597f5b891b7e7f8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380Q3T2",
+    "sequence_sha256": "9703a2d34508e9bfc74b96dbc3081234b54d09c8c4b8da69d292ebf2b277adbb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9PR09",
+    "sequence_sha256": "d359339e860749462ec546e6b894d522a36dd2459c11f25d84ca7a2048f3afa3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2G4U6D9",
+    "sequence_sha256": "f7016cab24807fe93d19bb7adaeba68a92b0b5e285a778c20634c821e9743ac2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1Z7N4",
+    "sequence_sha256": "0bd534b5fddf09ecb821a328fa5b16b9325200091088b2117d40605aee2cab6a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9SY22",
+    "sequence_sha256": "532a5e9dab6158f49059f1c46eeffa04318acd9c8b6415ce971231264300439c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAV3BFY5",
+    "sequence_sha256": "5352e8d4c1c0d46beb9f2679bf19d682388f73bb3ad66b1a17acd0e40e91d706",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9TCW2",
+    "sequence_sha256": "be540ceb7b18c4cc833906aa6c575a7636d579315222c936c39b6cd799bdc40b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "B6CGX2",
+    "sequence_sha256": "a56c2c0d23306c19f0b68658610f15805e71de7aaa4a2a45e5c2db658e08a9f1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PPA0",
+    "sequence_sha256": "d93d3277ff2a751c77b69618634759042f53f2597023181db176db5fabe18adf",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2G4U294",
+    "sequence_sha256": "310ca4e034cb4039bdd089c3d3e0d372b6b38c21ab881120db308d4e6e6b946d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX6F8L7",
+    "sequence_sha256": "b67ad8ced10f1b61b0033645f9415c1562a49c9c11f5b1140d812807652b78af",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QCY7",
+    "sequence_sha256": "2546ed0576a4d6821249ca40c59f7ee1a4c8a1044dcac5d695c36d9409a2224a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4PWW7",
+    "sequence_sha256": "f23f681921316795af63c6af305e3ffac6befa78df3fcf7565b7e89589bc29bf",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6BJY1",
+    "sequence_sha256": "32ea684c08525a34eb9bd91428bac2acd6a3e6a816faff5adcd03f9962eb4010",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B5G2",
+    "sequence_sha256": "abf5bd99c49ef948f63c819d750306364c6e78440500d6ad65ef1baef2ef7245",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5Q137",
+    "sequence_sha256": "84868dc012e132ca5adc74b8e4a47eadd03d8125396ff34c23a472b5ad4b779c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5SKZ0",
+    "sequence_sha256": "3bd16ad1d936d17d9ed040191776b998174491ace8f5877d99a0cf099e083f96",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U1QW74",
+    "sequence_sha256": "21d03f0474df24853ac4d780ed8e16bc2418c07970a6e08a6fdc7faff4b7279d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABY5UJQ0",
+    "sequence_sha256": "beab4bb0163966625651e0fbb822a7e16f8c808971606db981f3c5f5f180b4d5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U1HX05",
+    "sequence_sha256": "81cc9c5127692f8893c6b30f499d56c5c9db46a69de822273ddb5cc2bff81682",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX2HZP5",
+    "sequence_sha256": "104163298f84d6904b2efad647078a6878880739ca35ce0a3d2d77cde279971f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KKF4",
+    "sequence_sha256": "5866e9f7f7b62c8d8a9098979b4ab3b0877b7350c22fbd839037b95f65c6907b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QHF4",
+    "sequence_sha256": "9d857f79113044eeaf293610ad059958b94fe6627f366c000f9dd2c3b503f621",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U1R055",
+    "sequence_sha256": "c6bba81a29c665eec08410b2033fb3dc5363cc72705af1997bf8d27513023012",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB72ZSW9",
+    "sequence_sha256": "6298c72a17570c02621b8601ea01bc5d9efb14514e7b5a7b14acdd6a502fe482",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2A7VG50",
+    "sequence_sha256": "4b45b71ed0a48dfdb2af3f1a4be2666dfb44b2a21ce743ec9f72d581d753f51e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5Q0I6",
+    "sequence_sha256": "70728b5c8c3fe5b96b97a1ae34e9cb015b746c9c343558cedb10a6d169af054e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PP26",
+    "sequence_sha256": "eddc96b5a276cc834a231e64b821aabf4a25cfdfc67ddd642233067f7cacee52",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5UGZ3",
+    "sequence_sha256": "682d155cf443d52127d21def1212d083274a0a8e8af5532934ed876ff26a7870",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9TW88",
+    "sequence_sha256": "4cad557d299810e70d3e496fec05f408abc6e7bc825523ad283294db62e45ac9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YW71",
+    "sequence_sha256": "dff266c64072c8893b9f94b4a1132e411c9e84af3bed876c08883fe969b6c396",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QDB9",
+    "sequence_sha256": "073a7f4153811010612975133cb51fed2526f7c8a042ba8a1866af72dad91dfb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP2E2L7",
+    "sequence_sha256": "67174d952e086d890553111147adc929c66bf161cb03bac8edfb353ed3edafc7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9Y7W9",
+    "sequence_sha256": "43932d0cc65340577f213ee681dcf7eb3014c87a6967b4589d99402ee07fd75a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABW9EY82",
+    "sequence_sha256": "e2d71eaad1f9af91df7f15b7c64995f37fb120a27e265f513d74ea013d4c4258",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44CMJ6",
+    "sequence_sha256": "99300390df828dc4cc0060133d13ae800a3e89d515905e3c4c4cf5ed0d401eb2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73P877",
+    "sequence_sha256": "6e2a90c3d55b5b56369892ba366b2f4c7b0f236d50967b388e9489212f744dc2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA90XYJ4",
+    "sequence_sha256": "09529bc4581d7f793c2935e6ae1edec683f09970537286dd82f850ecde9384b0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9XWU7",
+    "sequence_sha256": "75dcd9ce68dd9f1d81f1435d0b1639bbb7b400cac48e70272c33c8b59c4d5bfb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9N293",
+    "sequence_sha256": "18222c6f5cbb345fe34bbbbf9e743a2e64de12176219432c0d6e0f76c2cfd661",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73NNK1",
+    "sequence_sha256": "d4ab1b5346313659d1407f634a613551896eba275dd28c69401c8087946415c3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44CQ33",
+    "sequence_sha256": "81949383b880810c71a28a5cff52b7c8385b97e14900222f4dbdb3dd2d30c008",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABW9ETP1",
+    "sequence_sha256": "4a99fef2405dcfc3433660d45eb35ec8d8bc38a6103fcf8a28f5808d40364a0d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABR4W680",
+    "sequence_sha256": "d62946ea65b9e19b460f21acb243314943373f888765d3c3c016c1e297e4f885",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RK20",
+    "sequence_sha256": "791c85cd78e7f359133360d80d28a0c7b8b53332bbf73ad5dd04759f7ae75dc6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PRV1",
+    "sequence_sha256": "41dfa0d4286831826760e08a0dac2681a761be220768d2d22bf70223cdfedc84",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KKH2",
+    "sequence_sha256": "c0603408dd92f713d2621cd006a840a240ea2f7029734fe463193f9c31b0b84a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380QJL7",
+    "sequence_sha256": "a54ba068ec81ad24be9c0d886c1c2337ec9de300005ac2b3763a20e52d85e7ec",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6BJA0",
+    "sequence_sha256": "a986f3f3202691bd27e36dc239463af1d840b83ded016a93934e7feb8a081fe8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B592",
+    "sequence_sha256": "6ac904ac23472467201b92d857165420d4310d2d889281e4bb5d1a95892c72ab",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4H4Y5",
+    "sequence_sha256": "85c3fac5bb2a3608105671ea90c4a2e14232d5a3a50dcfcab5ddd02fe305606e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9TRH4",
+    "sequence_sha256": "30c97f0d34a0a93b5a06c5e7fac3b0970179692190257bcb12c79898a5774254",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6BHF9",
+    "sequence_sha256": "a0d3706be6d2ac2e4b8f1e2e517e59af088c2dab2681b6be09b6c4e3f04585c0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A209AAW7",
+    "sequence_sha256": "62640cd34e0e220eaeaf75274553c9ad5b6da9c4a17acf46223637072faa87b0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA91BG92",
+    "sequence_sha256": "7546af84617b36280f590e8ee014306ea06559f4cfd875e4a0ebef0117e7b34b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380Q9K9",
+    "sequence_sha256": "2f8989f90453a250095a0289938812b853751a0c31518ae7f8843ab1f0e8b891",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5SPQ0",
+    "sequence_sha256": "69557efdedc63a383e48a6bb12ddb1ea35415fa024434504de09fa95fe9670da",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5ST74",
+    "sequence_sha256": "eb4f7dac580620d7cde1e31647827dc0c3be6299acd04646d1a30859b7dd4522",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAV3BFT4",
+    "sequence_sha256": "c86f6fb4c396d96b217b5c24d0a82d4564e869f70cbb8c217999fff366c517a2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q66BC6",
+    "sequence_sha256": "156caf9da4d93dd77bbbc2a9fb5f536477cbb1b27a905579ed1507ba3b8f97e7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RLX7",
+    "sequence_sha256": "6b7d271b4ecd91a38ac72d50ad496ebaee22ea59be8621ff16ed6f61cc0bb20b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4CQH5",
+    "sequence_sha256": "7630394e8760b80def0c7bfd6cd176f8fa87bf11b349b22651bcce119584a3a8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73Q5E6",
+    "sequence_sha256": "ab89c93c0e8f863926c20a5775982b849ab5e16bd6c8347e47dbfc81bfad3a0c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U1QXU2",
+    "sequence_sha256": "c86d677cf43fde297fc286759470687af300412436a235c89e367a7e98a918cb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73PBS8",
+    "sequence_sha256": "9d379bf768d3ffb4a9e0071994a9769a02e73ca3494eee2a8ea51207b3c7e0d0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5Q1D7",
+    "sequence_sha256": "c86f6fb4c396d96b217b5c24d0a82d4564e869f70cbb8c217999fff366c517a2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1Z8M7",
+    "sequence_sha256": "57af7aa90347d144d0c61b2ce77ab88c57a3430c66fa5e2427bd0b247ce3b8a1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380QDK2",
+    "sequence_sha256": "e6e1f4cfe057472b07ba30578fb721b674290a0d1b15da06e07ea9482890ac59",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q7CIG2",
+    "sequence_sha256": "b2f3ba8bd648714615a04e6363dbe12abeb9543f7b6b2a878e93c4b55f9312c4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP2ED01",
+    "sequence_sha256": "80596e98a629d5a0dbdee509a6f4db99aa6c6b62a72418d01d5d24e58271268d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX5QZM3",
+    "sequence_sha256": "3cd65665542d398583bffc5103c6864134c7671963f7b6949cfacb1820be281f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9ST81",
+    "sequence_sha256": "9887e7eb809765bbf3d02dd986d7d2cebfbd0b151ddb6bde879e3d671958bb02",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73NFU9",
+    "sequence_sha256": "f3ce05ce7afd5171868ef622b38055cf39f0d0ac3d88c19a8d215d9d8553cb2a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44CIR8",
+    "sequence_sha256": "ab2508a1e864a38351902d50bcefd498b1c7f7b6eaaacdcabf1ee5ab61126e72",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1Y756",
+    "sequence_sha256": "a618151aaf991af2c2eb702cac57741d6e9335d5bafb8c33d9b9899b554fd0f8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q66BM2",
+    "sequence_sha256": "ee27e2137cab0a02a2b8c95c75c3795ad7145b9bc2b1cd74c1e74157ea252b6b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX2I0V1",
+    "sequence_sha256": "793cf56b794121107ff6565589ddfc6d12e57c80859d0a5b9624f4bce87281a8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5UH09",
+    "sequence_sha256": "ef3f063333dae3db6c230ae8cdecffc2f0832918cd99d260d48222aa7d2684f2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UVW1",
+    "sequence_sha256": "3b2ca54616102b9f3dae87c1820c8fa23a7392dc4bc5e255b37fa0154f8383fe",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KME1",
+    "sequence_sha256": "5cce5946733281405faf6a7373a807ae796208c2d8dd64de8faeb82b65d6ceef",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RC84",
+    "sequence_sha256": "d56a57bd7a9eee6db76828ccd5f2a132387e681948ddde994d7a8f124f6ef9dd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9XX67",
+    "sequence_sha256": "c7794afd50ebc619318c5245a452294aa85a9b700470ca6f36e3ba4be26e29d2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KKM2",
+    "sequence_sha256": "68866c4ceec3cb6e25253e819ba2dab4540ab7fd56a98d8e7b6bdf59b2421aad",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5PZP9",
+    "sequence_sha256": "b33bbb183cba200497e5b152db5c96a4b03ca2df27b89d5af94692f235855678",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP2EGX4",
+    "sequence_sha256": "47836a04a8f7cea8f9a440cd22f90c8a36a596c744630c7bb25abca0746f9ef8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73NNV4",
+    "sequence_sha256": "d97a5566cb798c23d6a4c3d8297d384bbb7eac10ab4338b3b3f2982e83f3b477",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9PN75",
+    "sequence_sha256": "286f2c2a32983ca5deaf650f4ef8d240b9f7d9ab8f18c6fe7e9bb7b7c7de526c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB72ZRU6",
+    "sequence_sha256": "f2b01bbca04e4c8d02fdc09d0f716e3335dd6215911a9e84ace66ae97964d955",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABW9EZJ2",
+    "sequence_sha256": "d7565abf3acf5a349453354537317731240ac3e8bfcf2bc77664173703d4ca54",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73PN87",
+    "sequence_sha256": "e5f0035a00db3eaf1a99398adb51d39e88a5d1fda6169b13dfa8c325d5cc32d9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RLI7",
+    "sequence_sha256": "112b77df4415428e1cb617cb5a9aae121a68b8033553bdfe66090d211929088b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6BKQ9",
+    "sequence_sha256": "19a613a6e55ae32068dd716244534b80933ef7c1ebf7624b44efadc14ea58f58",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KM28",
+    "sequence_sha256": "bcd3282815368d882e7a0117f1015b64586933f43ee39253598ae9e73ec45c14",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9SYN9",
+    "sequence_sha256": "24c7fb1baa9ec2e21fa40ba2d949330a76ab4ca05c1cd1a0059107ef382ce6c1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q66CW3",
+    "sequence_sha256": "adf550d27fb5a336186d50995ad317ae05020747ad9a6d9d2b84dc652ab9791d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73NNI1",
+    "sequence_sha256": "49bfe716cb39f938e7659175e097f3ae4b499b9f01e38b176df21a1d2fee913b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q66CW8",
+    "sequence_sha256": "84d3f963eb0fec0848822a182db2dc901bb44bca83c738e848d3b5a143eb4271",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9TBF6",
+    "sequence_sha256": "948f15bb32a54f91eded8c22853d1cd313c340e939183be45b21a8cced4fe21e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAW7K4V6",
+    "sequence_sha256": "303db8a62653f3f83bac9138df0c2bbe5c62eb71acd56f32e407f1d514851c61",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6UUY9",
+    "sequence_sha256": "acda1d4817158630e9b1ba01bd904a60c967e5dc65420df15f58afdad5a63b7f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9SSJ6",
+    "sequence_sha256": "0f74506c411bad8770baf5a1f129465b75fa175144c52e15cd73498d7f7e6f27",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6BHZ0",
+    "sequence_sha256": "4a07ce7dd8a7e678f3d95b143a8ec685194206c8edf6cb152b07a66e4d8b2a61",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9P2Y6",
+    "sequence_sha256": "1d9a4765320c0b1733e67b51cac77da6cdaf7a2d3b7760f25c472306d22f8933",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9TZ37",
+    "sequence_sha256": "897866c18c661f3111e59841dec50084e4599d69eff4ffaf9a4255c5ef2f1f6f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LM41",
+    "sequence_sha256": "8fe02a7c65450ba2dde5abcb6aa92bf9825b6e63ad3bc36f15a08cc783fb56e6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1ZYM0",
+    "sequence_sha256": "8fbb45bd03fca708ce6e0a4ad6bbb0c4036a346d23e6ff5e7186a289438e9236",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380QV68",
+    "sequence_sha256": "8351a220ff505af54eaf399e88112a56b5a576161e5382d95a82b0cb8e06249f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380QB56",
+    "sequence_sha256": "75ea37dd8b423addc00abf1de27f51d397ea2d45dc5f1d51f7077b1064eaaef5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1Y4A2",
+    "sequence_sha256": "8c1a60e7328c5ba86f95e382d2851927fed1cf0718114573cf26c09452c4959a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44HZF8",
+    "sequence_sha256": "1dd55b73521f7f6042650ae1a5d91f3c90af52df222208644d6b3392985f38af",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5Q168",
+    "sequence_sha256": "791f217edbec28b7fc206e088007fde1c5e527c63860190af90d6b95c0452a14",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UVB9",
+    "sequence_sha256": "45c5b899834c6a123f494a87ec75f3c694dd51078571365b8034eebb09699cc8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0K1H0L3",
+    "sequence_sha256": "ed24635c1c4de459ef2a168824fc492e4b4b64c64b330d05acd8ac2e411d076c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44CIT3",
+    "sequence_sha256": "5967bf12430d0d4021fcc8f183931c8a96bada7cacc02f817a0a9bc51b05a264",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9SWE1",
+    "sequence_sha256": "51afcba5f09877241cf4155a54f3f3e4ae9d91bef007594f2aa07a789c624a42",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PNK7",
+    "sequence_sha256": "ca3cfc3ace609af21661f749a78f43f25af81630c8cf904b3afaf0ca239300e4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RLY2",
+    "sequence_sha256": "f6d6926045a746e72dc51314a87466290b3732b5982d68f8fb9a3321f6c77490",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36PKW6",
+    "sequence_sha256": "db56134c04605e86e43f2e8235e8066505d6869880200869d8fcac4a87aed5c7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UVI4",
+    "sequence_sha256": "feda69f5b49ebaf2fb9b7b46b9656273e8b3ec36df2a5ec7228a1ea5796866eb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LMJ6",
+    "sequence_sha256": "1a69d7245a4aa997aa3eb2f7fe99e65984ae5aa0d57aee9942a68570b791fc17",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX5QZN1",
+    "sequence_sha256": "ff72b1a125cebdc4a63dd5e889113e534563106e882762f9f0b12656696fc607",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A208ZGJ5",
+    "sequence_sha256": "a5428887a14f44fc5b015cbdb50f43782145bb3ec2f42f327e4344fd10d9a313",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A857F0P9",
+    "sequence_sha256": "d321779cc1a68b90caad664d36ae1ec3b8ac3e07aec46cc339f89df19506d6f4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KLZ3",
+    "sequence_sha256": "49eafbe09e0d542de5ac3bd77e7e1cce33472410c7ca9c46219e663aaec63977",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9TRJ0",
+    "sequence_sha256": "385d5bff4ae3d6c3ab1a334a5cad1124e2408b3fac5a2e8c0abd35b35fa6e695",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM7ANH7",
+    "sequence_sha256": "5ab09089bae818d498d2f434764569592cb2a9cac73a7f04cdbef627ac424299",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN5RBQ6",
+    "sequence_sha256": "793cf56b794121107ff6565589ddfc6d12e57c80859d0a5b9624f4bce87281a8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RKV0",
+    "sequence_sha256": "da09ba43e4286425dce3abccc5702df66f8543d9f005a70cecc8384d53f164a6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UMV0",
+    "sequence_sha256": "1b818921aede7ee5d9191543a224da1ba86f0db2b51ed303980707f2ee2e3cd6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX5QZY2",
+    "sequence_sha256": "23ff8d4eb3a60af2724ab81a8844dcfb722414d1a4dbf76b2b420dd3fcfa790c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KZA2",
+    "sequence_sha256": "9617d84368cd22d4de90c271ac2e8211ac774b259f955811962d6002634199cb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB72ZN12",
+    "sequence_sha256": "c86f6fb4c396d96b217b5c24d0a82d4564e869f70cbb8c217999fff366c517a2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4F2B0",
+    "sequence_sha256": "cb9c92b4079b30f8a8596dd4c27024ca531374092a5c7e5b6d79e7844dda35c8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4PY35",
+    "sequence_sha256": "4c4b21d93084110112763f6af594bfbc56719eea71e58d3bde879784fea621e7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PRL5",
+    "sequence_sha256": "c298d4067c11f55e781ce1ac91eca59f811fbc93c28b5b1c0f86f77bdf9d88f5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6UNY7",
+    "sequence_sha256": "671ee9cd84eb15f3503c215fcc679bc45525c82d7fc81055287d72a871336aea",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PNL7",
+    "sequence_sha256": "b5c2f90d97d9baf48cea47dbd89e02673b329d04001b54337a666491a65f6593",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UVN8",
+    "sequence_sha256": "865c8018e685d326aba306475a97958119af89b493410a7d0334a68630f5435f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QEH2",
+    "sequence_sha256": "b90da7ecd2a730b3b7ed270b4900db0c48f6bbd1e41f0ced0350db06686ebe2a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2R4NRD1",
+    "sequence_sha256": "d7ef88922ffae83e7c7a352f35b149d096b877b50df920c4bfbb6f11b14b54fd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LLP1",
+    "sequence_sha256": "1282671a386730f8bf21b50f25ddf3be3c3c36efc33dde2a993a3eea13b9d7e5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73Q6N8",
+    "sequence_sha256": "0a193a96537f3dd61bc8953e440164d04a147633ac2235f06e39567d46d365a8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABW9EZD5",
+    "sequence_sha256": "0498423cec4a7b20608beea3dcef2aeae05cba58896056aab6f91ec52f2c05a5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9TKC9",
+    "sequence_sha256": "9d76bc5cbdea0b03d63e1194c7c6796f5de3909ac4f1dc811399db65c3ba01b5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX5QX18",
+    "sequence_sha256": "d53fb728661ce7b452fe832c843f07a3a9d77ace15a93d0bbd08855cd84a69b5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAV3BF90",
+    "sequence_sha256": "b2f3ba8bd648714615a04e6363dbe12abeb9543f7b6b2a878e93c4b55f9312c4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QWS2",
+    "sequence_sha256": "b7f63173cccee733bbc82379eabd669a83d1315bba0492175fbb4a72cbcb13ae",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YDG7",
+    "sequence_sha256": "5b434d932747ddb9a8a2ba064c6d43fac08bcc9dca32b5d3728405d1c26d5606",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABR4W6J9",
+    "sequence_sha256": "e62839b7cc06390b37ba1d649a09e462e091cb2e01a2932476e5fd9c8f59e3e0",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UVJ2",
+    "sequence_sha256": "14d092d132c9a102b1d77eb29e5b65ad98df7fc4dcc263fe54bc89d0b878f13f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RMJ4",
+    "sequence_sha256": "47100f0188f152f1b8d0ccda1445e673e7822d11ac9ab42ffe7e9ee5edb2ddec",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RLS7",
+    "sequence_sha256": "e9dd7b69ad46135ef4d2f42084dd17ae4e2f39a4d7b403c7a7f658fbf28f4ce9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YU38",
+    "sequence_sha256": "18e8473b19cb888faa175950c0a04a33ecc83bdf0b8fd8aff0ea543e48b658f9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UMT9",
+    "sequence_sha256": "b9d682477704d325c25bab402cbc084bd48f7549dcf2f73a25691bbcc05618b7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4PP01",
+    "sequence_sha256": "295d2ac99c53ae09db3b74c76ce194ba0a462a4ccc1d677fd9d1461075fce09f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QQ84",
+    "sequence_sha256": "54dc200893f57cde896b814006c42408f6e624182b166abde5cbeb4362b63e8d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5LRG1",
+    "sequence_sha256": "5b56bced8fc752d3a5c64f300e17bb4765cf337037bfc259a1e3dbd8cab67d46",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H5LRI4",
+    "sequence_sha256": "3068d1c0d9b71501b38d72933805558fba39b8285038f49ce94637a749653b5a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QYU5",
+    "sequence_sha256": "56e4cf8035cfd4793eb64d8039eee543e45ff64a670a8a2caf63bc6087cd69d1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KZ32",
+    "sequence_sha256": "5b5934b26e3a844a8621fae65f602e20a72193e6418b0587be76ff81e363dbf4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2G4U3T2",
+    "sequence_sha256": "870c5e2ef77925350d91073cf0362b16e448626c1ab0914401f1c187637add93",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U1HXL6",
+    "sequence_sha256": "2c0c69b3a4e644c94b18e6d38e3494efa2f4b0d266685032089d8a35a8cbd264",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4PNK0",
+    "sequence_sha256": "72b12f998aac2f9752e502ac5cde6131149dc3ed63bc0be49ec905cf7a54c8b3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44CMJ2",
+    "sequence_sha256": "13887a9987f1c03e6e77d6b329178678d665cc51f8ddc8c4c73b0be30702c287",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RLV1",
+    "sequence_sha256": "504f553f42cc70cba864ed9c95e45f3952d913de8a418c8a5bcae255bcd9b202",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LNC2",
+    "sequence_sha256": "51750ed0fa378038d3c8858b904db2df966488f92b93a8992e6820d3b8417ab7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RPC1",
+    "sequence_sha256": "c8298119d74bf382f84c237ab7ddc1a77760023ca336cf3f429805c221e2b9d9",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LUV4",
+    "sequence_sha256": "64c3891309545acad44c8973de43834997b38c0ccd1d6747b220cca332a35a32",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B0N5",
+    "sequence_sha256": "1ac46169ffa426d7b15303ecdda8dbf44c5ce52c1679c0a3296100949393ca49",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1YU19",
+    "sequence_sha256": "28b4cb07375ccdda566835bef39da5ee6c8cd1a41b41929f74e172b3a1e23d70",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KKL7",
+    "sequence_sha256": "9e1f1029631b90f198e2651709f25f38289b7a63c16e73f4cf9b6694b6dab0bd",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP2E0A1",
+    "sequence_sha256": "04196bdc6e5484537580ab20de07360aaa0ba49a548a8d15eaa2fb85829bcd89",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABW9EZ05",
+    "sequence_sha256": "ad1fc7c5717f0800777beb95db911c3426d9c77ff8ae6a660d3e60a1837b4976",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6UY29",
+    "sequence_sha256": "d512c4fd34070a86425b1b449cafe256e9c14545ba2052523d4f0fbe2d2bd876",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380PUP1",
+    "sequence_sha256": "e992dbbb1dd75a815251518092a95af77f1d18f3c2e892f5b072c7dcb72b2279",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380QEC0",
+    "sequence_sha256": "363c4da2d70bf6f4d9a4174e131530d0a5b7461691ce42b369d91a084a153673",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A857EZE8",
+    "sequence_sha256": "ed8e177513da445849f2065206a1f029169383ec9055c6f4fd3c640cfd0c5528",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A3G5LJP4",
+    "sequence_sha256": "1bfa78d7f6db324dd179c6f4e35a6de9dcfc099e7d657d894d46dc1f4b50e456",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A085U312",
+    "sequence_sha256": "3bd27427e4e30ca8f45d8c057d4e1f43db2146a37ea53ef2c0f150429ed7def3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6BL24",
+    "sequence_sha256": "bbe26ef8021f0060b33784d621044595dcbfce7a6a710e750238a792f66a3a99",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9SU56",
+    "sequence_sha256": "d167f3af1c9d44006f46bbc5453c56cc92272f8a6c11a539bc867f4b14ee3c10",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5Q170",
+    "sequence_sha256": "789217e78c747a9b2d866844335e60989ecfc8869020dfcea44b9e250739d870",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM6BR49",
+    "sequence_sha256": "1f06b9881f88d6d4fec571f686b1d003e27dfb1fb5508c3d5411212d5af59f63",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QWQ1",
+    "sequence_sha256": "79cefbcd8bbb1a34b4734c51cca85bc4e9cbd9af10eaa6fc230358af6126727d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H2YGI6",
+    "sequence_sha256": "b2f3ba8bd648714615a04e6363dbe12abeb9543f7b6b2a878e93c4b55f9312c4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B4F8",
+    "sequence_sha256": "0438e74aac7afa41d6e57fbbbca6f6e88e94957f851f324d0f150e5d144ff7ac",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB73P3H5",
+    "sequence_sha256": "583fc8e3c8fd719883269082a8e50ab47ac63e3c03ee9732412bb232f0986397",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9JTP2",
+    "sequence_sha256": "3befcea1f109117104e11a14f9f55e49f578810bdae1f5998f67702baa3dc17d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9R7L9",
+    "sequence_sha256": "3d7244fb3c7ee7c2b94f9659d4ae4831443f49efbc452653f7bafae8ad437dd4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3AZK0",
+    "sequence_sha256": "2f42b9dbea35f69b4a9591363691353941c662e3bc7c07ad7999851a79d947b3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9TSE5",
+    "sequence_sha256": "058645701810e6bd999aba48d0eb17f85931dfe7a1f64922deaf40778e055033",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB72ZFA0",
+    "sequence_sha256": "90c0eed73e698c75bf82a0029c7f0236874ee538e2f09ce19198ab0d92ef5ff7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM7ANY7",
+    "sequence_sha256": "dff4ac58332a0df53253e2251415351557783efdd5f229ae783a872e79acdf6b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LKR2",
+    "sequence_sha256": "72451aed0631ea96d1c39ebe429b6310372cdc70b28b2828000f87e64c6bba9c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN5RAB4",
+    "sequence_sha256": "eed16f3d875bdc1e9eb60ad4349fd0a9115866c2b1e11dfdd2e5fd42c4762f08",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380Q790",
+    "sequence_sha256": "400189f6811e2c070513db4de60ce5ab3f6fb24557b0f0a85795be30e31b0eff",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX6FDR8",
+    "sequence_sha256": "0b743921df0a6ac127f55bfc955e0b66e711dc9c109576c10395e7687ae5038a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2G4U6F2",
+    "sequence_sha256": "23ae979ae3719bfcbf630a0e010cbe6ffc88b39cd707dad254b52d8dd3d20eb2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QH70",
+    "sequence_sha256": "ba00b0c07076fa5b9b53a026413e8cf1833185af8762617e701e67e4888f30cb",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B283",
+    "sequence_sha256": "4c6a9fa51d0f431336676e8142eb47cde7d295a337d94be40044f98c0a4614c5",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN5RAC2",
+    "sequence_sha256": "22902e43adb7c2a3d1d71f4b992fa1be4234c23cf54284e4ee4eb03717d3bcf8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9JTR0",
+    "sequence_sha256": "4f40e3cf24186a1f411639940579f1cea9c4acbb62a4189cbfef83a040778b3d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA44CKU8",
+    "sequence_sha256": "a69f5d0e13c807fab2e18c69351e7b8563384912fc7b62339ea94139e2b34b28",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN4CUU3",
+    "sequence_sha256": "0a1113099e2ec72483c7b6ca662358559a86f6b4672c64bf406891f54a06883e",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABR4VWZ7",
+    "sequence_sha256": "d93d3277ff2a751c77b69618634759042f53f2597023181db176db5fabe18adf",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RSX1",
+    "sequence_sha256": "ad65619adb5d0f1a7c93be045533c761be11b1764ccea3d057ba2b6b9e58ef66",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QZG9",
+    "sequence_sha256": "ea13c52ec506e697ce07e32223b8aa3c2a904adc89eba148e98b97c28d2b7e82",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABY5ULB5",
+    "sequence_sha256": "f231cbe1737c3eac6da8d61a0ad3b15ee9213a40a6fd279d1e0e67cd7d9298f1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9KM84",
+    "sequence_sha256": "185f5eb6a9e00be597e1f2d20de1b525316854688df9a195a41b8b955c9a2545",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QVI5",
+    "sequence_sha256": "eaeafe6a6b00c471003f7346c7f4fe23a43952ec10b506518b18e6fb924afb8f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9RG16",
+    "sequence_sha256": "d2adaac4b8e6ed6ce42c31bc2ae21fcd44874b6d9c6b1f968c9697da59670c1f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP2ECT0",
+    "sequence_sha256": "6b717e1e916d4a94344c3a5904623e09b8e8619ab3c9ff54a1443998243a08a2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9SZ17",
+    "sequence_sha256": "3ec88e1b3a8d5299530627af659e3666948cd8d12fc2522a068d8e523798d4b8",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0E1NQK2",
+    "sequence_sha256": "1bfa78d7f6db324dd179c6f4e35a6de9dcfc099e7d657d894d46dc1f4b50e456",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAX2I8P7",
+    "sequence_sha256": "b2f3ba8bd648714615a04e6363dbe12abeb9543f7b6b2a878e93c4b55f9312c4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q7BTW6",
+    "sequence_sha256": "2dbeb1b5bd0a161b4c6bf5f2879d0819f138ec62280396524de284390413c5a2",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1ZYW2",
+    "sequence_sha256": "0457487a265f90b7eff377c96168432881d6f052f5fceca9396df4f98468a5d1",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q66CW2",
+    "sequence_sha256": "557cc61f4303230063380964cfb22715a770c32b287ef2518921689f9ea412c4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LJG1",
+    "sequence_sha256": "647619b3326d3406b45a934eed99a7733f3ef8e5c696a4ada10a8fdfc17c7ed6",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM5UH02",
+    "sequence_sha256": "a61127bb2aa774d6cb4a6a5bc4421ef71479a8e28c6837248c0849c873542b22",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36PPQ7",
+    "sequence_sha256": "328f25af69a3a3e77944c46730820c21cb25ef81af7d4a23c10ad8a9da8ada4d",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H2YNL1",
+    "sequence_sha256": "1bfa78d7f6db324dd179c6f4e35a6de9dcfc099e7d657d894d46dc1f4b50e456",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA90XRZ3",
+    "sequence_sha256": "3ac92c71a633c965c35bc3c6238ff5b6a6b7972f6c2cca659b5e3bb275b78445",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QD11",
+    "sequence_sha256": "7716a39262bcd2ad1a54caa057a9d720ebc33b428f89df71ff08daecac9b0bd4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABP1ZSE7",
+    "sequence_sha256": "5dcf4dec3552a356bf56a62f32b267fd59137c7610a61abc9160508fb8031e5f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX6FAJ5",
+    "sequence_sha256": "4ac76c372ee8ac369184a64a3c59d5b3349f8b49129019e6db0f015ec8f047a3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UMN3",
+    "sequence_sha256": "a5b1252ce21a1cf69a0c150d3003b8b02376ca438843b62f74c19d32d7f31e04",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "Q8D0C0",
+    "sequence_sha256": "36aad06132e2633f26e4dfb90d77a7ac8c5601f1354e4989284ab73688165f4a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QMF1",
+    "sequence_sha256": "23d68b98b9bf16ec065ca3986e47751033e1a9044d1910eec3fe3bf4b71282a3",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U1R2K8",
+    "sequence_sha256": "974103c199b4de0f6cfe1e34fd9c48b072bb20c60df3626fbfbe708a102a4fc4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LJU6",
+    "sequence_sha256": "aff6b075aa16e860f218f34e15fe7915812332e92e190305260262dbd9a1827f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AA36LI15",
+    "sequence_sha256": "c9fce1169d5adde3a60d4c0b2d2879ed140484ce778b8a41ddc329735fb8761a",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0K1H0S6",
+    "sequence_sha256": "b0081c6060cd880deef192efb5c7377094ba93add8d589dce4fe2a124e064026",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UVK2",
+    "sequence_sha256": "e6fca2a95161cd75e122b171ef42eef944b1e00dd4b910ee9774ee1e23d212a7",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A857F028",
+    "sequence_sha256": "9069515b2b1a47d07243b0fcdd324befb3cff210389ef00b71f3fbe8f42fc551",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3B6G4",
+    "sequence_sha256": "860a7acb999645bfed995ab9c67187cfff90b832fa86e4bc3300094fe1c1b807",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A208ZVY5",
+    "sequence_sha256": "4fb770f028c34b1ecab5fc9946e94ed175f3f30373eed423a828e3e795980891",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABN5RCP6",
+    "sequence_sha256": "5db76ecc231a005efc69dc377e1b32a14925679fece8fa8a9485ab3b396a4e87",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UMW7",
+    "sequence_sha256": "85551d0c6c207b3d72ec7e4e4e8d67ca4a7c1de7e9b183b3c650a40e88a6720b",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB72ZRU3",
+    "sequence_sha256": "1bfa78d7f6db324dd179c6f4e35a6de9dcfc099e7d657d894d46dc1f4b50e456",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0U1HUK9",
+    "sequence_sha256": "f63dba5114bf94c83b00a95fd72f68a04120312c77b9f2422e6f673a1e394a93",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM7AMA1",
+    "sequence_sha256": "0d6b192d1d406a05396ba5cc52255b64515872c219c7ee56d5a8d7c2bc9d2cfe",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AAV3B6C2",
+    "sequence_sha256": "974103c199b4de0f6cfe1e34fd9c48b072bb20c60df3626fbfbe708a102a4fc4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380QAJ4",
+    "sequence_sha256": "d4e1bdd33e4c7c3a8195fd55e0594e6d3a53ba39d3c33a715fb57ea9fe283216",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H3AZJ6",
+    "sequence_sha256": "9fd3f34848135442db24e9b44077d8a5e255daf406fd285738776bbcf77d6f2f",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9QI62",
+    "sequence_sha256": "b1d73766fabf5df48102c64f710c48200184f8ef296fad7e7b8a8bce804e15bf",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0H2W0D6",
+    "sequence_sha256": "1bfa78d7f6db324dd179c6f4e35a6de9dcfc099e7d657d894d46dc1f4b50e456",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A2G4U1S2",
+    "sequence_sha256": "b9a593ee2bf44b0150956d7028f9335d0d2cdea50651b7725d83f229c3022ebc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABM9XV01",
+    "sequence_sha256": "b9a593ee2bf44b0150956d7028f9335d0d2cdea50651b7725d83f229c3022ebc",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0ABX5QXI4",
+    "sequence_sha256": "a0be5adb1a10948c8de79e1b2c14c25f7627bed10d4bc95c1ef891d904018a86",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0AB72ZJY3",
+    "sequence_sha256": "974103c199b4de0f6cfe1e34fd9c48b072bb20c60df3626fbfbe708a102a4fc4",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A380QTR9",
+    "sequence_sha256": "b251cf514dc6bbca386aba9d85f620b6b09870911852d63d954bfff220e0eb7c",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9UB25",
+    "sequence_sha256": "b7bc9efeda6febd44c93e4c3b5e8a2f537d35432d48bfe350266c4f4539dfc72",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  },
+  {
+    "candidate_id": "A0A0T9U5C6",
+    "sequence_sha256": "521366833cdfe297b31833b7f63da30fe3c3dc15d9092da384b3f21487baf258",
+    "needed": "sequence-matched protein structure, prepared ligand and justified grid"
+  }
+]

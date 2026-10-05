@@ -1,0 +1,28 @@
+{
+  "batch": 16,
+  "url": "https://rest.uniprot.org/uniprotkb/search?query=accession%3AQ8D0C0+OR+accession%3AA0A0T9QMF1+OR+accession%3AA0A0U1R2K8+OR+accession%3AA0AA36LJU6+OR+accession%3AA0AA36LI15+OR+accession%3AA0A0K1H0S6+OR+accession%3AA0A0T9UVK2+OR+accession%3AA0A857F028+OR+accession%3AA0A0H3B6G4+OR+accession%3AA0A208ZVY5+OR+accession%3AA0ABN5RCP6+OR+accession%3AA0A0T9UMW7+OR+accession%3AA0AB72ZRU3+OR+accession%3AA0A0U1HUK9+OR+accession%3AA0ABM7AMA1+OR+accession%3AA0AAV3B6C2+OR+accession%3AA0A380QAJ4+OR+accession%3AA0A0H3AZJ6+OR+accession%3AA0A0T9QI62+OR+accession%3AA0A0H2W0D6+OR+accession%3AA0A2G4U1S2+OR+accession%3AA0ABM9XV01+OR+accession%3AA0ABX5QXI4+OR+accession%3AA0AB72ZJY3+OR+accession%3AA0A380QTR9+OR+accession%3AA0A0T9UB25+OR+accession%3AA0A0T9U5C6&format=json&size=500",
+  "retrieved_utc": "2026-10-03T06:30:43.279605+00:00",
+  "sha256": "31f31b33ee4abac1c551f4d7c5044ed8b4b740393d4ba0b28f70b81dffa21698",
+  "headers": {
+    "Vary": "accept,accept-encoding,x-uniprot-release,x-api-deployment-date, User-Agent",
+    "Cache-Control": "public, max-age=43200",
+    "x-cache": "miss cached",
+    "Content-Type": "application/json",
+    "Access-Control-Allow-Credentials": "true",
+    "Access-Control-Expose-Headers": "Link, X-Total-Results, X-UniProt-Release, X-UniProt-Release-Date, X-API-Deployment-Date",
+    "X-API-Deployment-Date": "23-September-2026",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "Date": "Sat, 03 Oct 2026 06:31:06 GMT",
+    "Access-Control-Max-Age": "1728000",
+    "X-UniProt-Release": "2026_03",
+    "X-Total-Results": "27",
+    "Transfer-Encoding": "chunked",
+    "Access-Control-Allow-Origin": "*",
+    "Connection": "close",
+    "Access-Control-Allow-Methods": "GET, PUT, POST, DELETE, PATCH, OPTIONS",
+    "Access-Control-Allow-Headers": "DNT,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range,Authorization",
+    "X-UniProt-Release-Date": "02-September-2026"
+  },
+  "status": "downloaded",
+  "results": 27
+}

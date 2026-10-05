@@ -1,0 +1,9 @@
+{
+  "requested": 827,
+  "active_records": 460,
+  "inactive_records": 367,
+  "sequence_match": 460,
+  "sequence_changed": 0,
+  "missing_or_failed": 0,
+  "scope": "Current official database metadata only; inactive entries cannot supply current sequence/version/citations and must not be counted as confirmed unchanged. Does not recover original download date or constitute exhaustive literature search or functional confirmation."
+}

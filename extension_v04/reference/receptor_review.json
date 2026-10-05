@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-05",
+  "primary_references": [
+    {
+      "doi": "10.3390/v13112171",
+      "scope": "Source-phage BtuB evidence; not proof of isolated I7LEH0 receptor"
+    },
+    {
+      "doi": "10.3390/v18030291",
+      "scope": "Related prior RBP characterization, modelling and glycan docking; novelty context"
+    }
+  ],
+  "external_case": "I7LEH0",
+  "external_claim": "New to frozen exact-sequence pool; prospective independence not established",
+  "structure_correspondence": "2 archived prepared proteins match complete inputs",
+  "ligand_grid_validation": "not_established_by_sequence_correspondence",
+  "new_docking_performed": false,
+  "new_E6_E7_scores_generated": false
+}

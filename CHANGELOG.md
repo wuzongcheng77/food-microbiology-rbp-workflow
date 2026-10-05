@@ -1,3 +1,9 @@
+# Version 1.1.0 — 2026-10-05
+
+Adds the verified input/evidence extension and source data, exact-sequence/database audits, full-pool missingness comparisons and v5 evidence summaries. Preserves all v1.0.0 scientific baseline files, fixed weights and historical rank order. New raw annotations are not represented as fully regenerated engineering predictions. Reconciles current citation metadata with the actual release scope. No new experimental results are introduced.
+
+## Earlier history
+
 # Change log
 
 ## Local Git packaging

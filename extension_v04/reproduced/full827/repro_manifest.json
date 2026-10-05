@@ -1,0 +1,29 @@
+{
+  "version": "0.4.0",
+  "tool_sha256": "d2d9fed98db160106bbfb5a1d2c9eb52117ff85eaa612d480f3e2479fcb96ceb",
+  "inputs": {
+    "fasta": "E:\\Ariticle_26\\Article_6_预测RBP+湿试验验证\\JoB第三次投稿\\08_public_release\\food_microbiology_rbp_workflow_v1.1.0_candidate\\extension_v04\\data\\historical827.fasta",
+    "fasta_sha256": "b89287453957f7c6af6d238678361067462d6c02a7c33aa6f81bdb676647aad0",
+    "manifest": null,
+    "vina": null,
+    "receptor_evidence_sha256": null,
+    "supplied_registry_hashes": {
+      "rank_path": "85c3c3b9b8e5db3827fbdc7945426666226beb46b8461dd8605e187e50c94886",
+      "b0_path": "f57f5e48db4e68ebcad41cc61c56fc0bc05890b316cffa74513c88e7c788cdf5"
+    },
+    "policy_sha256": null,
+    "evidence_sha256": null,
+    "manifest_sha256": null
+  },
+  "protected_files_before": {},
+  "protected_files_after": {},
+  "protected_files_unchanged": true,
+  "frozen_registry_rows": 827,
+  "candidates_in_827": 827,
+  "candidates_outside_827": 0,
+  "docking_modes": {
+    "not_run_no_structure": 827
+  },
+  "evidence_stage": "not_done_no_policy",
+  "scope": "Computational execution and evidence bookkeeping. No accuracy or biological-hit claim without independent labels. Rank bounds are conditional mathematical intervals, not confidence intervals."
+}

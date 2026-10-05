@@ -1,0 +1,6 @@
+﻿scenario,coverage,interval_width,rank_ambiguous_candidates,possible_top5_candidates,guaranteed_top5_candidates
+complete,1,0.0,0,5,5
+target_context_score,0.44999999999999996,0.55,827,827,0
+docking_support_score,0.8,0.19999999999999996,826,798,1
+solubility_no_chaperone_score,0.8,0.20000000000000007,826,470,1
+global_engineering_residual_score,0.95,0.050000000000000044,826,90,1

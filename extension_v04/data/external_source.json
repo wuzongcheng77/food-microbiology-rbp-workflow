@@ -1,0 +1,15 @@
+{
+  "accession": "I7LEH0",
+  "entryAudit": {
+    "firstPublicDate": "2012-10-03",
+    "lastAnnotationUpdateDate": "2026-06-10",
+    "lastSequenceUpdateDate": "2012-10-03",
+    "entryVersion": 26,
+    "sequenceVersion": 1
+  },
+  "sequence_sha256": "2cf14eb3d46fcfcf454f94b9005c4eed0c285123996b4fa4cb22c4049d2c71bc",
+  "source": "https://rest.uniprot.org/uniprotkb/I7LEH0.json",
+  "role": "Public external candidate intake, not a newly isolated phage, not independent biological validation",
+  "selection": "Only nonidentical sequence absent from both frozen827 and localB0 among this query output; no docking results used",
+  "receptor_scope": "Source phage literature suggests BtuB; individual protein receptor not experimentally confirmed here. Do not assume O3 glycan is the appropriate ligand."
+}

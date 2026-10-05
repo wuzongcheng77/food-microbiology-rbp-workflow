@@ -1,0 +1,22 @@
+[
+  {
+    "source": "D:\\antimicrobial_pipeline\\antimicrobial_pipeline_20250910_155820\\data\\derived\\YRBP_branch_runs\\v5_4_8f_receptor_pdbqt_preparation\\receptors_pdbqt\\F4N729__V52_B0_989606a9637da31f7cad.pdbqt",
+    "copied_name": "F4N729.pdbqt",
+    "sha256": "f6b79674cd406122aa3409a199deac4952ef4f736c2c7875407d547b2b5ecabc"
+  },
+  {
+    "source": "D:\\antimicrobial_pipeline\\antimicrobial_pipeline_20250910_155820\\data\\assets\\ligands\\yersinia_o3_6dalt_pentasaccharide_5\\vina\\compound5_3d_minimized.pdbqt",
+    "copied_name": "compound5.pdbqt",
+    "sha256": "6fffb48065d00bd32e0c7f8c19ee8469bb4ce1cefde971c0bc2292e58c984097"
+  },
+  {
+    "source": "D:\\antimicrobial_pipeline\\antimicrobial_pipeline_20250910_155820\\data\\derived\\YRBP_branch_runs\\v5_4_8f_receptor_pdbqt_preparation\\receptors_pdbqt\\A0AAX4Q2K6__V52_B0_e1888fad7884237478d2.pdbqt",
+    "copied_name": "A0AAX4Q2K6.pdbqt",
+    "sha256": "7b5f0343f6393339127745c629ef4bdad670f054966a8650572018985a497724"
+  },
+  {
+    "source": "D:\\antimicrobial_pipeline\\antimicrobial_pipeline_20250910_155820\\data\\assets\\ligands\\yersinia_o3_6dalt_pentasaccharide_5\\vina\\compound5_3d_minimized.pdbqt",
+    "copied_name": "compound5.pdbqt",
+    "sha256": "6fffb48065d00bd32e0c7f8c19ee8469bb4ce1cefde971c0bc2292e58c984097"
+  }
+]

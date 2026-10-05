@@ -1,0 +1,20 @@
+{
+  "I7LEH0": {
+    "sequence_sha256": "2cf14eb3d46fcfcf454f94b9005c4eed0c285123996b4fa4cb22c4049d2c71bc",
+    "target_taxon": "Yersinia enterocolitica",
+    "target_context": "Source-phage receptor evidence; candidate assignment unverified",
+    "receptor_identity": "BtuB (source-phage level)",
+    "receptor_class": "protein",
+    "evidence_scope": "phage_level",
+    "evidence_source": "https://doi.org/10.3390/v13112171",
+    "reviewer": "computational literature scope audit; author confirmation pending",
+    "reviewed_on": "2026-10-05",
+    "review_status": "scope_reviewed_candidate_unresolved",
+    "method": "not_selected",
+    "ligand_identity": "not_selected",
+    "ligand_class": "unknown",
+    "grid_rationale_source": "not_applicable_no_docking",
+    "structure_mapping_source": "not_available",
+    "interpretation": "No claim that the isolated I7LEH0 protein binds BtuB; do not transfer a glycan ligand from Gp17."
+  }
+}

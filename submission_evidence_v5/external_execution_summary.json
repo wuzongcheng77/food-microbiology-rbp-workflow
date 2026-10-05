@@ -1,0 +1,102 @@
+{
+  "runs": [
+    {
+      "case": "full827",
+      "entry_command": [
+        "D:\\antimicrobial_pipeline\\antimicrobial_pipeline_20250910_155820\\.pipeline_venv\\Scripts\\python.exe",
+        "-B",
+        "-X",
+        "utf8",
+        "D:\\antimicrobial_pipeline\\antimicrobial_pipeline_20250910_155820\\tools\\yrbp_v0_2_rbp_repro_runner.py",
+        "--fasta",
+        "E:\\Ariticle_26\\Article_6_预测RBP+湿试验验证\\JoB第三次投稿\\07_review\\rbp_full_audit_20261003\\frozen827_sequences.fasta",
+        "--out",
+        "E:\\Ariticle_26\\Article_6_预测RBP+湿试验验证\\JoB第三次投稿\\03_computational_results\\v04_full827_20261005",
+        "--resume"
+      ],
+      "E6_consumer_command": [
+        "D:\\antimicrobial_pipeline\\antimicrobial_pipeline_20250910_155820\\.pipeline_venv\\Scripts\\python.exe",
+        "-B",
+        "-X",
+        "utf8",
+        "D:\\antimicrobial_pipeline\\antimicrobial_pipeline_20250910_155820\\tools\\yrbp_e6_annotate_engineering_features_v0_1.py",
+        "--e6_input_csv",
+        "E:\\Ariticle_26\\Article_6_预测RBP+湿试验验证\\JoB第三次投稿\\03_computational_results\\v04_full827_20261005\\fresh_e6_annotations.csv",
+        "--annotation_csv",
+        "E:\\Ariticle_26\\Article_6_预测RBP+湿试验验证\\JoB第三次投稿\\03_computational_results\\v04_full827_20261005\\fresh_e6_annotations.csv",
+        "--out_csv",
+        "E:\\Ariticle_26\\Article_6_预测RBP+湿试验验证\\JoB第三次投稿\\03_computational_results\\v04_full827_20261005\\legacy_E6_consumed_annotations.csv"
+      ],
+      "rows": 827,
+      "E6_predictors_ready": 0,
+      "external_predictive_benchmark": false
+    },
+    {
+      "case": "external_I7LEH0",
+      "entry_command": [
+        "D:\\antimicrobial_pipeline\\antimicrobial_pipeline_20250910_155820\\.pipeline_venv\\Scripts\\python.exe",
+        "-B",
+        "-X",
+        "utf8",
+        "D:\\antimicrobial_pipeline\\antimicrobial_pipeline_20250910_155820\\tools\\yrbp_v0_2_rbp_repro_runner.py",
+        "--fasta",
+        "E:\\Ariticle_26\\Article_6_预测RBP+湿试验验证\\JoB第三次投稿\\07_review\\rbp_full_audit_20261003\\external_source_inventory\\I7LEH0_public_input.fasta",
+        "--out",
+        "E:\\Ariticle_26\\Article_6_预测RBP+湿试验验证\\JoB第三次投稿\\03_computational_results\\v04_external_I7LEH0_20261005",
+        "--receptor-evidence",
+        "E:\\Ariticle_26\\Article_6_预测RBP+湿试验验证\\JoB第三次投稿\\07_review\\rbp_v04_20261005\\external_receptor_evidence.json"
+      ],
+      "E6_consumer_command": [
+        "D:\\antimicrobial_pipeline\\antimicrobial_pipeline_20250910_155820\\.pipeline_venv\\Scripts\\python.exe",
+        "-B",
+        "-X",
+        "utf8",
+        "D:\\antimicrobial_pipeline\\antimicrobial_pipeline_20250910_155820\\tools\\yrbp_e6_annotate_engineering_features_v0_1.py",
+        "--e6_input_csv",
+        "E:\\Ariticle_26\\Article_6_预测RBP+湿试验验证\\JoB第三次投稿\\03_computational_results\\v04_external_I7LEH0_20261005\\fresh_e6_annotations.csv",
+        "--annotation_csv",
+        "E:\\Ariticle_26\\Article_6_预测RBP+湿试验验证\\JoB第三次投稿\\03_computational_results\\v04_external_I7LEH0_20261005\\fresh_e6_annotations.csv",
+        "--out_csv",
+        "E:\\Ariticle_26\\Article_6_预测RBP+湿试验验证\\JoB第三次投稿\\03_computational_results\\v04_external_I7LEH0_20261005\\legacy_E6_consumed_annotations.csv"
+      ],
+      "rows": 1,
+      "E6_predictors_ready": 0,
+      "external_predictive_benchmark": false
+    }
+  ],
+  "structure_correspondence": {
+    "F4N729": {
+      "status": "exact_complete_chains",
+      "chains": [
+        {
+          "chain": "A",
+          "observed_residues": 93,
+          "input_residues": 93,
+          "status": "exact_complete_chain",
+          "observed_sequence_sha256": "cd565017b4e6079c3c291738af8dbf2470f107cc115a7a8b4567e32bbe435367"
+        }
+      ],
+      "residue_conflicts": [],
+      "protein_sha256": "f6b79674cd406122aa3409a199deac4952ef4f736c2c7875407d547b2b5ecabc",
+      "automatic_acceptance": true,
+      "scope": "Residue correspondence only; no fold, assembly, ligand or grid validation"
+    },
+    "A0AAX4Q2K6": {
+      "status": "exact_complete_chains",
+      "chains": [
+        {
+          "chain": "A",
+          "observed_residues": 115,
+          "input_residues": 115,
+          "status": "exact_complete_chain",
+          "observed_sequence_sha256": "5e8b50c56777c4991e12e0f2ded55a1099d85ddcbcd4393261c7a87becf9fc6d"
+        }
+      ],
+      "residue_conflicts": [],
+      "protein_sha256": "7b5f0343f6393339127745c629ef4bdad670f054966a8650572018985a497724",
+      "automatic_acceptance": true,
+      "scope": "Residue correspondence only; no fold, assembly, ligand or grid validation"
+    }
+  },
+  "scope": "Full claimed input/audit path executed; no complete new-candidate E6/E7 reranking or prospective hit-rate benchmark"
+}

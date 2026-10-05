@@ -1,0 +1,76 @@
+[
+  {
+    "stage": "E6_raw_annotation_export",
+    "execution_mode": "real_execution",
+    "count": 827,
+    "note": "Input-derived length/C/K connected to E6 annotation schema; scoring_ready=false; missing predictors not filled"
+  },
+  {
+    "stage": "structure_sequence_correspondence",
+    "execution_mode": "real_execution",
+    "note": "First-model ATOM residues; partial or mismatching chains require review"
+  },
+  {
+    "stage": "fresh_sequence_descriptors",
+    "execution_mode": "real_execution",
+    "count": 827,
+    "note": "AA20 composition and entropy; not a binding predictor"
+  },
+  {
+    "stage": "receptor_declaration_check",
+    "execution_mode": "real_execution",
+    "note": "Missing or inconsistent declarations block requested docking; not biological validation"
+  },
+  {
+    "stage": "input_intake_protein_fasta",
+    "execution_mode": "real_execution",
+    "count": 827,
+    "note": "Protein FASTA only; genome/ORF calling not wired"
+  },
+  {
+    "stage": "historical_827_registry_lookup",
+    "execution_mode": "read_only_cache",
+    "count": 827,
+    "note": "Frozen v5.4.8z2 table read; not modified"
+  },
+  {
+    "stage": "structure_resolution",
+    "execution_mode": "not_done_no_manifest",
+    "count": 0,
+    "note": "Prepared structures validated by declared sha256"
+  },
+  {
+    "stage": "docking_vina",
+    "execution_mode": "mixed",
+    "detail": {
+      "not_run_no_structure": 827
+    },
+    "count": 0,
+    "note": "real_docking=0 cache_reuse=0 failed=0 no_structure=827"
+  },
+  {
+    "stage": "contact_qc_4A_proximal",
+    "execution_mode": "not_done",
+    "note": "Geometric proximity in first pose; not validated bonds"
+  },
+  {
+    "stage": "evidence_audit_rank_bounds",
+    "execution_mode": "not_done_no_policy",
+    "note": "Unknown kept as interval; never coerced to 0; fixed weights declared in policy"
+  },
+  {
+    "stage": "genome_orf_calling",
+    "execution_mode": "not_done_not_implemented",
+    "note": "No end-to-end genome claim"
+  },
+  {
+    "stage": "automatic_structure_folding",
+    "execution_mode": "not_done_not_implemented",
+    "note": "Only caller-supplied prepared structures docked"
+  },
+  {
+    "stage": "full_E6_E7_rerank",
+    "execution_mode": "not_done_not_implemented",
+    "note": "Historical component scores used read-only; no re-weighting to preserve Gp17 rank"
+  }
+]

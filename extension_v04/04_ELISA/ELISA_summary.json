@@ -1,0 +1,40 @@
+{
+  "independent_n": 3,
+  "technical_wells_per_experiment": 3,
+  "Kd_mean": 44.41428878910906,
+  "Kd_between_experiment_SD": 2.79951423860843,
+  "Kd_each": [
+    41.20717006156427,
+    46.36866444774954,
+    45.66703185801336
+  ],
+  "background_binding": 0.05633333333333334,
+  "specificity_means": [
+    1.6349999999999998,
+    0.2799999999999999,
+    0.1323333333333333,
+    0.2333333333333333,
+    0.1456666666666667,
+    0.2733333333333334,
+    0.21300000000000005,
+    0.21799999999999997,
+    0.18700000000000006
+  ],
+  "specificity_SD": [
+    0.06850547423381577,
+    0.009643650760992963,
+    0.06403384521745771,
+    0.024906491790963547,
+    0.0873059753586966,
+    0.08600775158864075,
+    0.05111751167652824,
+    0.031000000000000028,
+    0.015524174696260037
+  ],
+  "specificity_paired_tests_status": "Author confirmed matched experiment rows and source background treatment on 2026-09-29. Retrospective two-sided paired t tests with Holm correction across eight comparisons. Small n limits assumption checks.",
+  "limitations": [
+    "Underlying technical well values are not present in these source sheets; three stored values are experiment means according to author confirmation.",
+    "Binding background is shared as stored. Specificity background is group-specific as stored. Author confirmed these treatments. Background measurement uncertainty is not propagated.",
+    "New analysis is retrospective. Kd SD measures between-experiment spread, not pooled-fit SE."
+  ]
+}

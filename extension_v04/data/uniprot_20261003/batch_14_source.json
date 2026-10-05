@@ -1,0 +1,28 @@
+{
+  "batch": 14,
+  "url": "https://rest.uniprot.org/uniprotkb/search?query=accession%3AA0A0T9RKV0+OR+accession%3AA0A0T9UMV0+OR+accession%3AA0ABX5QZY2+OR+accession%3AA0A0T9KZA2+OR+accession%3AA0AB72ZN12+OR+accession%3AA0ABN4F2B0+OR+accession%3AA0ABN4PY35+OR+accession%3AA0A380PRL5+OR+accession%3AA0ABM6UNY7+OR+accession%3AA0A380PNL7+OR+accession%3AA0A0T9UVN8+OR+accession%3AA0A0T9QEH2+OR+accession%3AA0A2R4NRD1+OR+accession%3AA0AA36LLP1+OR+accession%3AA0AB73Q6N8+OR+accession%3AA0ABW9EZD5+OR+accession%3AA0ABM9TKC9+OR+accession%3AA0ABX5QX18+OR+accession%3AA0AAV3BF90+OR+accession%3AA0A0T9QWS2+OR+accession%3AA0ABP1YDG7+OR+accession%3AA0ABR4W6J9+OR+accession%3AA0A0T9UVJ2+OR+accession%3AA0A0T9RMJ4+OR+accession%3AA0A0T9RLS7+OR+accession%3AA0ABP1YU38+OR+accession%3AA0A0T9UMT9+OR+accession%3AA0ABN4PP01+OR+accession%3AA0A0T9QQ84+OR+accession%3AA0A0H5LRG1+OR+accession%3AA0A0H5LRI4+OR+accession%3AA0A0T9QYU5+OR+accession%3AA0A0T9KZ32+OR+accession%3AA0A2G4U3T2+OR+accession%3AA0A0U1HXL6+OR+accession%3AA0ABN4PNK0+OR+accession%3AA0AA44CMJ2+OR+accession%3AA0A0T9RLV1+OR+accession%3AA0AA36LNC2+OR+accession%3AA0A0T9RPC1+OR+accession%3AA0AA36LUV4+OR+accession%3AA0A0H3B0N5+OR+accession%3AA0ABP1YU19+OR+accession%3AA0A0T9KKL7+OR+accession%3AA0ABP2E0A1+OR+accession%3AA0ABW9EZ05+OR+accession%3AA0ABM6UY29+OR+accession%3AA0A380PUP1+OR+accession%3AA0A380QEC0+OR+accession%3AA0A857EZE8&format=json&size=500",
+  "retrieved_utc": "2026-10-03T06:30:41.005412+00:00",
+  "sha256": "44a7e04368a53337d9150be1bb5d1667f47852ae46bb70022077a2b0a1812081",
+  "headers": {
+    "Vary": "accept,accept-encoding,x-uniprot-release,x-api-deployment-date, User-Agent",
+    "Cache-Control": "public, max-age=43200",
+    "x-cache": "miss cached",
+    "Content-Type": "application/json",
+    "Access-Control-Allow-Credentials": "true",
+    "Access-Control-Expose-Headers": "Link, X-Total-Results, X-UniProt-Release, X-UniProt-Release-Date, X-API-Deployment-Date",
+    "X-API-Deployment-Date": "23-September-2026",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "Date": "Sat, 03 Oct 2026 06:31:03 GMT",
+    "Access-Control-Max-Age": "1728000",
+    "X-UniProt-Release": "2026_03",
+    "X-Total-Results": "50",
+    "Transfer-Encoding": "chunked",
+    "Access-Control-Allow-Origin": "*",
+    "Connection": "close",
+    "Access-Control-Allow-Methods": "GET, PUT, POST, DELETE, PATCH, OPTIONS",
+    "Access-Control-Allow-Headers": "DNT,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range,Authorization",
+    "X-UniProt-Release-Date": "02-September-2026"
+  },
+  "status": "downloaded",
+  "results": 50
+}

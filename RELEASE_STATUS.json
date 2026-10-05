@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "module_version": "0.4.0",
+  "status": "release_package_prepared",
+  "archival_doi": null,
+  "archival_doi_status": "not_assigned_at_packaging",
+  "historical_software_doi": "10.5281/zenodo.22625899",
+  "prepared_date": "2026-10-05",
+  "author_manuscript_approval": "handled_separately_from_software_release",
+  "scientific_baseline_unchanged": true
+}

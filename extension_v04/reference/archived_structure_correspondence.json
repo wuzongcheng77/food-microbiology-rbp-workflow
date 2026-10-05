@@ -1,0 +1,34 @@
+{
+  "F4N729": {
+    "status": "exact_complete_chains",
+    "chains": [
+      {
+        "chain": "A",
+        "observed_residues": 93,
+        "input_residues": 93,
+        "status": "exact_complete_chain",
+        "observed_sequence_sha256": "cd565017b4e6079c3c291738af8dbf2470f107cc115a7a8b4567e32bbe435367"
+      }
+    ],
+    "residue_conflicts": [],
+    "protein_sha256": "f6b79674cd406122aa3409a199deac4952ef4f736c2c7875407d547b2b5ecabc",
+    "automatic_acceptance": true,
+    "scope": "Residue correspondence only; no fold, assembly, ligand or grid validation"
+  },
+  "A0AAX4Q2K6": {
+    "status": "exact_complete_chains",
+    "chains": [
+      {
+        "chain": "A",
+        "observed_residues": 115,
+        "input_residues": 115,
+        "status": "exact_complete_chain",
+        "observed_sequence_sha256": "5e8b50c56777c4991e12e0f2ded55a1099d85ddcbcd4393261c7a87becf9fc6d"
+      }
+    ],
+    "residue_conflicts": [],
+    "protein_sha256": "7b5f0343f6393339127745c629ef4bdad670f054966a8650572018985a497724",
+    "automatic_acceptance": true,
+    "scope": "Residue correspondence only; no fold, assembly, ligand or grid validation"
+  }
+}

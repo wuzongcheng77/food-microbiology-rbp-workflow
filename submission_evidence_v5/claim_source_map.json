@@ -1,0 +1,42 @@
+[
+  {
+    "claim": "827 records and 744 exact sequences",
+    "source": "full827_summary.json",
+    "manuscript": "3.1; Table S14"
+  },
+  {
+    "claim": "Gp17 rank 1, 250 docking only, 679 E7 only, 8 without context",
+    "source": "historical_internal_comparison.csv",
+    "manuscript": "3.1; Table 2"
+  },
+  {
+    "claim": "possible Top5 5/827/798/470/90 and guaranteed 5/0/1/1/1",
+    "source": "ablation_summary.csv",
+    "manuscript": "3.2; Table 3"
+  },
+  {
+    "claim": "curated-free Gp17 rank 1 at 0.730058",
+    "source": "computational_summary.json",
+    "manuscript": "3.2; Figure 2"
+  },
+  {
+    "claim": "460 active and 367 inactive database records",
+    "source": "database_summary.json",
+    "manuscript": "3.2"
+  },
+  {
+    "claim": "new input annotation and external evidence requests",
+    "source": "external_execution_summary.json",
+    "manuscript": "3.3"
+  },
+  {
+    "claim": "ELISA independent experiment means and paired comparisons",
+    "source": "ELISA derivative CSV files",
+    "manuscript": "3.4; Figure 4; Table S8"
+  },
+  {
+    "claim": "magnetic-capture historical plate index and volume limitation",
+    "source": "Mendeley Data v3; retained Figure 6; Supplementary Note S2",
+    "manuscript": "3.4; Figure 6"
+  }
+]

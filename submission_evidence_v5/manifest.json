@@ -1,0 +1,92 @@
+[
+  {
+    "file": "ablation_summary.csv",
+    "sha256": "72edb6698d2cdfa754cb98e22f3669b858163645b1be736761b1006e05ddfd8e",
+    "bytes": 386,
+    "source_relative": "07_review\\rbp_full_audit_20261003\\ablation_summary.csv"
+  },
+  {
+    "file": "binding_experiment_means.csv",
+    "sha256": "269dbc76df2ebfe92e8d3671c5f972d71de079fe5152753537e14a84b6353c4c",
+    "bytes": 2141,
+    "source_relative": "04_ELISA\\binding_experiment_means.csv"
+  },
+  {
+    "file": "binding_independent_experiment_fits.csv",
+    "sha256": "05384252b40d7d484885e6128f7468c5e119d8a42451ed6fa617f17b360c87d7",
+    "bytes": 289,
+    "source_relative": "04_ELISA\\binding_independent_experiment_fits.csv"
+  },
+  {
+    "file": "claim_source_map.json",
+    "sha256": "b89c24262f2cb82d9792856b3ff4fa1514c9af1787e6e9353b91723fc3c42fe6",
+    "bytes": 1292,
+    "source_relative": "v5 evidence organization"
+  },
+  {
+    "file": "computational_summary.json",
+    "sha256": "f36f62705236956bc2214fe9f1710203c3cbb98695dfb5eb74f17f8d7e8a70eb",
+    "bytes": 897,
+    "source_relative": "03_computational_results\\computational_summary.json"
+  },
+  {
+    "file": "database_summary.json",
+    "sha256": "67de377977a9ea84e0dae6a91cb9696af28b5dfdde70cf8de50fbef90b1e1431",
+    "bytes": 438,
+    "source_relative": "07_review\\rbp_full_audit_20261003\\uniprot_current\\summary.json"
+  },
+  {
+    "file": "external_execution_summary.json",
+    "sha256": "398f39a2a14042ee6427395e81fe8144a2e2f5c9dd6a0e804c6a36226a4251f4",
+    "bytes": 5047,
+    "source_relative": "07_review\\rbp_v04_20261005\\execution_summary.json"
+  },
+  {
+    "file": "full827_missingness_ablation.csv",
+    "sha256": "95716968ddd4ddf78511e13160ac9e29c5a41a26f2438323420f30abdde8ff0a",
+    "bytes": 341420,
+    "source_relative": "07_review\\rbp_full_audit_20261003\\full827_missingness_ablation.csv"
+  },
+  {
+    "file": "full827_summary.json",
+    "sha256": "64b276f838d936b0fc4a43f7bc3c6f659e2c5d71a0e7b3f7a5a9c4fe5856e567",
+    "bytes": 7603,
+    "source_relative": "07_review\\rbp_full_audit_20261003\\full827_summary.json"
+  },
+  {
+    "file": "historical_internal_comparison.csv",
+    "sha256": "fbe23e1572031b384e1a19a147294bd5c38fbe508c02b77bb06d36d20600ef67",
+    "bytes": 854,
+    "source_relative": "08_public_release\\food_microbiology_rbp_workflow_v1.1.0_candidate\\outputs\\reference_full827\\Supplementary_Table_S4.csv"
+  },
+  {
+    "file": "literature_coverage_sensitivity.csv",
+    "sha256": "96b6a941af19a9ab131987835d2b550ae3941958c65d31b879ae017b3ca70ec2",
+    "bytes": 64248,
+    "source_relative": "03_computational_results\\literature_coverage_sensitivity.csv"
+  },
+  {
+    "file": "README.txt",
+    "sha256": "75df01364fa0a1adce0b943b6d7443aebb42d566df005db7444851b9f841a01d",
+    "bytes": 518,
+    "source_relative": "v5 evidence organization"
+  },
+  {
+    "file": "specificity_experiment_means.csv",
+    "sha256": "c6ac26079a4c4c2be2c3e7c4c80374496f38a10b60343b4b268f55e2721466c6",
+    "bytes": 1266,
+    "source_relative": "04_ELISA\\specificity_experiment_means.csv"
+  },
+  {
+    "file": "specificity_paired_Holm_analysis.csv",
+    "sha256": "fb3fbd64eb5f5ce6b9925a2aebd04d6315abced9e85c33ca408b3bd122e1c3ff",
+    "bytes": 817,
+    "source_relative": "04_ELISA\\specificity_paired_Holm_analysis.csv"
+  },
+  {
+    "file": "specificity_paired_sensitivity_analysis.csv",
+    "sha256": "fb3fbd64eb5f5ce6b9925a2aebd04d6315abced9e85c33ca408b3bd122e1c3ff",
+    "bytes": 817,
+    "source_relative": "04_ELISA\\specificity_paired_sensitivity_analysis.csv"
+  }
+]
