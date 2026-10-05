@@ -31,4 +31,4 @@ Historical software v1.0.0: https://doi.org/10.5281/zenodo.22625899
 
 Historical research data: https://doi.org/10.17632/49smydnjjn.3
 
-The old software DOI does not identify this update. Version 1.1.0 archival citation is to be added after a real repository receipt exists; no DOI has been invented or reused. See `CITATION.cff` for the current software metadata and `RELEASE_STATUS.json` for the packaging status.
+Version 1.1.0 is archived at https://doi.org/10.5281/zenodo.23156488. All 254 files in the downloaded Zenodo source archive matched release commit `58d2055ecec93ec2fccb31b587911678c7cb9de3`. The historical v1.0.0 DOI remains a separate reference. See `CITATION.cff` and `RELEASE_STATUS.json`. Post-release citation metadata on `main` does not change the v1.1.0 tag; `VERSION_1_1_0_MANIFEST_SHA256.csv` describes the immutable tagged release.

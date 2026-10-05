@@ -1,11 +1,16 @@
 {
   "version": "1.1.0",
   "module_version": "0.4.0",
-  "status": "release_package_prepared",
-  "archival_doi": null,
-  "archival_doi_status": "not_assigned_at_packaging",
+  "status": "published_and_download_verified",
+  "archival_doi": "10.5281/zenodo.23156488",
+  "archival_doi_status": "verified_published",
   "historical_software_doi": "10.5281/zenodo.22625899",
   "prepared_date": "2026-10-05",
   "author_manuscript_approval": "handled_separately_from_software_release",
-  "scientific_baseline_unchanged": true
+  "scientific_baseline_unchanged": true,
+  "published_date": "2026-10-05",
+  "release_commit": "58d2055ecec93ec2fccb31b587911678c7cb9de3",
+  "verified_archive_files": 254,
+  "archive_content_mismatches": 0,
+  "metadata_note": "Post-release DOI metadata; the tagged release and its checksum manifest remain immutable."
 }

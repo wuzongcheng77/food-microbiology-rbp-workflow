@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: Cite this exact software version. Its archival DOI is added only after verified publication.
+message: Cite this exact software version. Use the verified version-specific Zenodo DOI.
 title: Food Microbiology RBP Prioritization and Magnetic Bioseparation Workflow
 version: 1.1.0
 type: software
@@ -19,3 +19,7 @@ contact:
 license: Apache-2.0
 repository-code: https://github.com/wuzongcheng77/food-microbiology-rbp-workflow
 date-released: '2026-10-05'
+
+doi: 10.5281/zenodo.23156488
+url: https://doi.org/10.5281/zenodo.23156488
+commit: 58d2055ecec93ec2fccb31b587911678c7cb9de3
